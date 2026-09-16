@@ -1,0 +1,1384 @@
+company,founded_year,sector,subsector,country,city,funding_usd_millions,valuation_usd_millions,employees,startup_stage,profitable,is_unicorn,data_source,company_key
+DeepMind,2010,Foundation Model / Research,AI Research Lab,United Kingdom,London,500.0,,400,Acquisition,False,,Funding Dataset,deepmind
+OpenAI,2015,Foundation Model / LLM,General-Purpose AI,United States,San Francisco,1000.0,,120,Strategic Investment,False,,Funding Dataset,openai
+Palantir,2003,AI Application,Data Analytics / Defense AI,United States,Denver,0.0,15800.0,2400,Direct Listing,True,,Funding Dataset,palantir
+UiPath,2005,AI Application,Robotic Process Automation,United States,New York,1340.0,35800.0,4000,IPO,False,,Funding Dataset,uipath
+SenseTime,2014,AI Application,Computer Vision / Smart City,China,Hong Kong,740.0,16800.0,6000,IPO,False,,Funding Dataset,sensetime
+OpenAI,2015,Foundation Model / LLM,General-Purpose AI,United States,San Francisco,300.0,20000.0,375,Series D,False,,Funding Dataset,openai
+Adept AI,2022,AI Application,AI Agent / Action Models,United States,San Francisco,65.0,1000.0,40,Series A,False,,Funding Dataset,adept ai
+Stability AI,2019,Foundation Model / Image Gen,Image Generation,United Kingdom,London,101.0,1000.0,150,Seed,False,,Funding Dataset,stability ai
+OpenAI,2015,Foundation Model / LLM,General-Purpose AI,United States,San Francisco,10000.0,29000.0,770,Strategic Investment,False,,Funding Dataset,openai
+Cohere,2019,Foundation Model / LLM,Enterprise AI,Canada,Toronto,270.0,2200.0,450,Series C,False,,Funding Dataset,cohere
+Inflection AI,2022,Foundation Model / LLM,Personal AI Assistant,United States,Palo Alto,1300.0,4000.0,200,Series B,False,,Funding Dataset,inflection ai
+Hugging Face,2016,AI Infrastructure,Open Source AI Platform,United States,New York,235.0,4500.0,250,Series D,False,,Funding Dataset,hugging face
+Anthropic,2021,Foundation Model / LLM,AI Safety Research,United States,San Francisco,4000.0,,500,Strategic Investment,False,,Funding Dataset,anthropic
+Figure AI,2022,AI Application,Humanoid Robotics,United States,Sunnyvale,675.0,2600.0,700,Series B,False,,Funding Dataset,figure ai
+Anthropic,2021,Foundation Model / LLM,AI Safety Research,United States,San Francisco,2750.0,18400.0,1000,Series D,False,,Funding Dataset,anthropic
+Wayve,2017,AI Application,Autonomous Driving,United Kingdom,London,1050.0,,350,Series C,False,,Funding Dataset,wayve
+Mistral AI,2023,Foundation Model / LLM,Open-Weight AI Models,France,Paris,640.0,6000.0,400,Series B,False,,Funding Dataset,mistral ai
+Databricks,2013,AI Infrastructure,Data Platform / ML Infrastructure,United States,San Francisco,10000.0,62000.0,6000,Series I,False,,Funding Dataset,databricks
+OpenAI,2015,Foundation Model / LLM,General-Purpose AI,United States,San Francisco,6600.0,157000.0,3000,Series E,False,,Funding Dataset,openai
+CoreWeave,2017,AI Infrastructure,GPU Cloud Computing,United States,Roseland,650.0,23000.0,1300,Series C,False,,Funding Dataset,coreweave
+xAI,2023,Foundation Model / LLM,General-Purpose AI,United States,Palo Alto,6000.0,45000.0,400,Series C,False,,Funding Dataset,xai
+Mistral AI,2023,Foundation Model / LLM,Open-Weight AI Models,France,Paris,2000.0,15500.0,700,Series C,False,,Funding Dataset,mistral ai
+Lambda,2012,AI Infrastructure,GPU Cloud Computing,United States,San Francisco,480.0,2500.0,400,Series D,True,,Funding Dataset,lambda
+Together AI,2022,AI Infrastructure,Open Source AI Platform,United States,San Francisco,305.0,3300.0,200,Series B,False,,Funding Dataset,together ai
+Anthropic,2021,Foundation Model / LLM,AI Safety Research,United States,San Francisco,3500.0,61500.0,1400,Series E Extension,False,,Funding Dataset,anthropic
+Safe Superintelligence (SSI),2024,Foundation Model / LLM,AI Safety Research,United States,Palo Alto,2000.0,32000.0,30,Series A,False,,Funding Dataset,safe superintelligence (ssi)
+OpenAI,2015,Foundation Model / LLM,General-Purpose AI,United States,San Francisco,40000.0,300000.0,3700,Series F,False,,Funding Dataset,openai
+Perplexity AI,2022,AI Application,AI Search Engine,United States,San Francisco,500.0,18000.0,250,Series E,False,,Funding Dataset,perplexity ai
+Ambience Healthcare,2020,AI Application,Healthcare AI,United States,San Francisco,243.0,,300,Series C,False,,Funding Dataset,ambience healthcare
+Scale AI,2016,AI Infrastructure,Data Labeling / Training Data,United States,San Francisco,14300.0,29000.0,1200,Strategic Investment,False,,Funding Dataset,scale ai
+xAI,2023,Foundation Model / LLM,General-Purpose AI,United States,Palo Alto,10000.0,200000.0,600,Series C,False,,Funding Dataset,xai
+Thinking Machines Lab,2024,Foundation Model / LLM,AI Research,United States,San Francisco,2000.0,10000.0,30,Seed,False,,Funding Dataset,thinking machines lab
+Infinite Reality,2019,AI Application,XR / Immersive AI,United States,Orlando,3000.0,,500,Growth Equity,False,,Funding Dataset,infinite reality
+Anduril Industries,2017,AI Application,Defense AI,United States,Costa Mesa,2500.0,29000.0,4500,Series F,False,,Funding Dataset,anduril industries
+Anthropic,2021,Foundation Model / LLM,AI Safety Research,United States,San Francisco,13000.0,183000.0,1600,Series F,False,,Funding Dataset,anthropic
+Project Prometheus,2025,AI for Physical World,Engineering / Manufacturing AI,United States,San Francisco,6200.0,,50,Seed / Launch,False,,Funding Dataset,project prometheus
+Anysphere (Cursor),2022,AI Application,AI Coding Assistant,United States,San Francisco,2300.0,29300.0,100,Series C,True,,Funding Dataset,anysphere (cursor)
+Databricks,2013,AI Infrastructure,Data Platform / ML Infrastructure,United States,San Francisco,5000.0,134000.0,7000,Series J,False,,Funding Dataset,databricks
+Uniphore,2008,Enterprise AI,Voice AI / Conversational AI,India,Chennai,987.0,2800.0,500-1000,Late Stage,,True,India AI Dataset,uniphore
+Eightfold AI,2016,HR Tech,Talent Intelligence AI,India,Delhi NCR,391.0,2100.0,200-500,Late Stage,,True,India AI Dataset,eightfold ai
+Observe AI,2017,Enterprise AI,Contact Center AI,India,Bengaluru,214.0,1500.0,200-500,Late Stage,,False,India AI Dataset,observe ai
+Pixis,2020,MarTech,Marketing AI,India,Bengaluru,209.0,1000.0,200-500,Late Stage,,True,India AI Dataset,pixis
+Darwinbox,2015,HR Tech,HRMS / HCM,India,Hyderabad,110.0,1000.0,500-1000,Late Stage,,True,India AI Dataset,darwinbox
+Ola Krutrim,2023,Foundation Models,LLM / Indic AI,India,Bengaluru,74.0,1000.0,100-200,Growth Stage,,True,India AI Dataset,ola krutrim
+Fractal Analytics,2000,Enterprise AI,Decision Science / Analytics,India,Mumbai,170.0,1000.0,500-1000,Late Stage,,True,India AI Dataset,fractal analytics
+DevRev,2020,Developer Tools,Dev AI / CRM,India,Chennai,150.8,1100.0,200-500,Late Stage,,False,India AI Dataset,devrev
+Yellow.ai,2016,Enterprise AI,Conversational AI / CX,India,Bengaluru,102.0,1000.0,200-500,Late Stage,,False,India AI Dataset,yellow.ai
+Haptik,2013,Enterprise AI,Conversational AI / Chatbots,India,Mumbai,12.2,250.0,100-200,Acquired,,False,India AI Dataset,haptik
+Video Verse,2016,Media Tech,Video AI,India,Mumbai,105.0,500.0,100-200,Growth Stage,,False,India AI Dataset,video verse
+TrueMeds,2019,HealthTech,Pharmacy AI,India,Mumbai,85.0,400.0,100-200,Growth Stage,,False,India AI Dataset,truemeds
+OpenFX,2022,Fintech AI,FX Trading AI,India,Mumbai,94.0,500.0,50-100,Growth Stage,,False,India AI Dataset,openfx
+Emergent AI,2025,Agentic AI,Code Generation,India,Bengaluru,100.0,600.0,50-100,Early Stage,,False,India AI Dataset,emergent ai
+CodeRabbit,2023,Developer Tools,Code Review AI,India,Pune,87.6,500.0,50-100,Growth Stage,,False,India AI Dataset,coderabbit
+Neysa,2023,GPU Cloud,AI Infrastructure,India,Mumbai,49.0,250.0,50-100,Growth Stage,,False,India AI Dataset,neysa
+Sarvam AI,2023,Foundation Models,Sovereign LLM / Indic AI,India,Bengaluru,53.0,300.0,50-100,Growth Stage,,False,India AI Dataset,sarvam ai
+Sigmoid,2013,Enterprise AI,Data Engineering / MLOps,India,Bengaluru,45.0,250.0,200-500,Growth Stage,,False,India AI Dataset,sigmoid
+InVideo,2019,Media Tech,Video Creation AI,India,Mumbai,52.5,300.0,100-200,Growth Stage,,False,India AI Dataset,invideo
+Jiffy AI,2018,Enterprise AI,Hyperautomation,India,Bengaluru,71.0,350.0,100-200,Growth Stage,,False,India AI Dataset,jiffy ai
+QpiAI,2019,Quantum AI,Quantum Computing + AI,India,Bengaluru,65.0,300.0,50-100,Early Stage,,False,India AI Dataset,qpiai
+MathCo,2016,Enterprise AI,Decision Science,India,Bengaluru,50.0,250.0,200-500,Growth Stage,,False,India AI Dataset,mathco
+Ema,2023,Agentic AI,Universal AI Employee,India,Bengaluru,61.0,400.0,50-100,Growth Stage,,False,India AI Dataset,ema
+Gnani AI,2017,Enterprise AI,Voice AI / Agentic AI,India,Bengaluru,34.2,200.0,100-200,Growth Stage,,False,India AI Dataset,gnani ai
+SigTuple,2015,HealthTech,Pathology AI,India,Bengaluru,19.5,100.0,50-100,Growth Stage,,False,India AI Dataset,sigtuple
+Niramai,2016,HealthTech,Cancer Screening AI,India,Bengaluru,6.4,30.0,10-50,Early Stage,,False,India AI Dataset,niramai
+Cropin,2010,AgriTech,Farm Management AI,India,Bengaluru,120.0,400.0,200-500,Growth Stage,,False,India AI Dataset,cropin
+ideaForge,2012,Defence Tech,Drone AI / UAV,India,Mumbai,50.0,350.0,200-500,Listed,,False,India AI Dataset,ideaforge
+Frugal AI,2021,Enterprise AI,Document AI / IDP,India,Bengaluru,8.0,40.0,10-50,Early Stage,,False,India AI Dataset,frugal ai
+SuperAGI,2022,Agentic AI,Large Action Models,India,Bengaluru,15.0,80.0,50-100,Growth Stage,,False,India AI Dataset,superagi
+Leena AI,2018,HR Tech,Employee AI,India,Delhi NCR,40.0,200.0,100-200,Growth Stage,,False,India AI Dataset,leena ai
+Neuron7 AI,2020,Enterprise AI,Field Service AI,India,Bengaluru,58.2,280.0,50-100,Growth Stage,,False,India AI Dataset,neuron7 ai
+Nanonets,2017,Enterprise AI,Document AI,India,Bengaluru,39.0,200.0,100-200,Growth Stage,,False,India AI Dataset,nanonets
+Atomicwork,2022,Enterprise AI,IT Service Mgmt AI,India,Bengaluru,39.0,200.0,50-100,Growth Stage,,False,India AI Dataset,atomicwork
+Rephrase.ai,2019,Media Tech,Synthetic Video AI,India,Bengaluru,36.0,150.0,50-100,Growth Stage,,False,India AI Dataset,rephrase.ai
+Entropik,2016,Market Research,Consumer Insights AI,India,Bengaluru,34.0,150.0,50-100,Growth Stage,,False,India AI Dataset,entropik
+Whatfix,2014,Enterprise AI,Digital Adoption AI,India,Bengaluru,140.0,600.0,500-1000,Late Stage,,False,India AI Dataset,whatfix
+Superops,2020,Enterprise AI,IT Management AI,India,Chennai,25.0,150.0,100-200,Late Stage,,False,India AI Dataset,superops
+Nurix AI,2024,Agentic AI,Customer Support AI,India,Bengaluru,27.5,200.0,50-100,Early Stage,,False,India AI Dataset,nurix ai
+Unifyapps,2023,Enterprise AI,Workflow Automation,India,Delhi NCR,20.0,100.0,50-100,Growth Stage,,False,India AI Dataset,unifyapps
+Truefoundry,2021,MLOps,ML Platform,India,Bengaluru,19.0,90.0,50-100,Growth Stage,,False,India AI Dataset,truefoundry
+Spyne,2018,Automotive,Visual AI / Auto Imaging,India,Delhi NCR,23.59,120.0,50-100,Growth Stage,,False,India AI Dataset,spyne
+Shipsy,2016,Logistics,Supply Chain AI,India,Delhi NCR,25.0,150.0,100-200,Growth Stage,,False,India AI Dataset,shipsy
+Contlo,2021,MarTech,Marketing AI,India,Bengaluru,14.3,80.0,50-100,Growth Stage,,False,India AI Dataset,contlo
+Prismforce,2021,HR Tech,Workforce AI,India,Mumbai,13.6,70.0,50-100,Growth Stage,,False,India AI Dataset,prismforce
+Murf AI,2020,Media Tech,Text to Speech AI,India,Bengaluru,11.5,100.0,50-100,Growth Stage,,False,India AI Dataset,murf ai
+Fireflies AI,2016,Productivity,Meeting Intelligence AI,India,Bengaluru,14.0,80.0,50-100,Growth Stage,,False,India AI Dataset,fireflies ai
+Vahan AI,2016,HR Tech,Recruitment AI,India,Bengaluru,10.0,60.0,50-100,Growth Stage,,False,India AI Dataset,vahan ai
+Playment,2015,Data Annotation,Training Data,India,Bengaluru,9.0,0.0,50-100,Acquired,,False,India AI Dataset,playment
+Staqu,2015,Security,Video Surveillance AI,India,Delhi NCR,5.0,30.0,50-100,Growth Stage,,False,India AI Dataset,staqu
+Intello Labs,2016,AgriTech,Crop Quality AI,India,Gurugram,4.0,20.0,10-50,Early Stage,,False,India AI Dataset,intello labs
+Planck Aerosystems,2018,Defence Tech,Drone AI,India,Hyderabad,4.5,25.0,10-50,Early Stage,,False,India AI Dataset,planck aerosystems
+Kore.ai,2014,Enterprise AI,Conversational AI Platform,India,Hyderabad,221.0,1000.0,500-1000,Late Stage,,False,India AI Dataset,kore.ai
+Nextbillion.ai,2020,Logistics,Location Intelligence AI,India,Hyderabad,13.5,70.0,50-100,Growth Stage,,False,India AI Dataset,nextbillion.ai
+Myelin Foundry,2019,Edge AI,Edge AI / Hardware,India,Bengaluru,8.0,40.0,50-100,Growth Stage,,False,India AI Dataset,myelin foundry
+Actyv AI,2019,Fintech AI,Supply Chain Finance AI,India,Bengaluru,12.0,60.0,50-100,Early Stage,,False,India AI Dataset,actyv ai
+Avaamo,2014,Enterprise AI,Conversational AI,India,Bengaluru,27.5,150.0,100-200,Growth Stage,,False,India AI Dataset,avaamo
+Pixbuf,2018,Media Tech,Generative Image AI,India,Bengaluru,3.5,20.0,10-50,Early Stage,,False,India AI Dataset,pixbuf
+OrbitShift,2022,Enterprise AI,Market Intelligence,India,Bengaluru,8.5,40.0,10-50,Early Stage,,False,India AI Dataset,orbitshift
+Nektar AI,2020,Enterprise AI,Revenue Intelligence AI,India,Bengaluru,8.15,40.0,50-100,Growth Stage,,False,India AI Dataset,nektar ai
+Dhiwise,2021,Developer Tools,App Builder AI,India,Surat,9.5,50.0,50-100,Growth Stage,,False,India AI Dataset,dhiwise
+Singulr,2023,Enterprise AI,Agentic AI Platform,India,Pune,10.0,50.0,10-50,Early Stage,,False,India AI Dataset,singulr
+Rumik AI,2024,Consumer AI,Lifestyle AI,India,Lucknow,6.5,30.0,10-50,Early Stage,,False,India AI Dataset,rumik ai
+BrainsightAI,2019,HealthTech,Brain AI / Neurology,India,Bengaluru,6.6,30.0,10-50,Early Stage,,False,India AI Dataset,brainsightai
+Assert AI,2019,Security,Visual AI / Safety,India,Mumbai,6.0,30.0,50-100,Growth Stage,,False,India AI Dataset,assert ai
+Two Platforms,2021,Foundation Models,LLM,India,Mumbai,15.0,80.0,50-100,Early Stage,,False,India AI Dataset,two platforms
+Beacon Li,2023,Productivity,AI Search,India,Bengaluru,7.0,35.0,10-50,Growth Stage,,False,India AI Dataset,beacon li
+Uncia AI,2023,Fintech AI,Lending AI,India,Bengaluru,3.0,20.0,10-50,Early Stage,,False,India AI Dataset,uncia ai
+Arrowhead AI,2024,Enterprise AI,Voice AI / Agentic AI,India,Bengaluru,3.0,15.0,10-50,Early Stage,,False,India AI Dataset,arrowhead ai
+Bolna AI,2023,Enterprise AI,Voice AI / Call Automation,India,Bengaluru,2.5,12.0,10-50,Early Stage,,False,India AI Dataset,bolna ai
+Ozonetel,2007,Enterprise AI,Contact Center AI,India,Hyderabad,15.0,100.0,200-500,Growth Stage,,False,India AI Dataset,ozonetel
+PlayAI,2019,Media Tech,Voice AI / TTS,India,Bengaluru,23.7,100.0,50-100,Early Stage,,False,India AI Dataset,playai
+Enterpret,2020,Product Analytics,Customer Feedback AI,India,Bengaluru,20.8,100.0,50-100,Growth Stage,,False,India AI Dataset,enterpret
+Trupeer,2023,Developer Tools,Product Documentation AI,India,Bengaluru,3.0,15.0,10-50,Early Stage,,False,India AI Dataset,trupeer
+Sprinklr,2009,MarTech,Unified CXM AI,India,Delhi NCR,600.0,3700.0,1000+,Listed,,True,India AI Dataset,sprinklr
+Senseforth,2017,Enterprise AI,Conversational AI,India,Bengaluru,5.0,25.0,50-100,Early Stage,,False,India AI Dataset,senseforth
+Niki.ai,2015,Consumer AI,Shopping AI / Chatbot,India,Bengaluru,15.0,0.0,50-100,Acquired,,False,India AI Dataset,niki.ai
+Mad Street Den (Vue),2013,Retail AI,Visual Commerce AI,India,Chennai,30.0,150.0,100-200,Growth Stage,,False,India AI Dataset,mad street den (vue)
+Preksha AI,2022,Enterprise AI,AI Sales Agent,India,Bengaluru,2.0,10.0,10-50,Early Stage,,False,India AI Dataset,preksha ai
+Kluisz,2023,Fintech AI,Wealth AI,India,Bengaluru,3.5,18.0,10-50,Early Stage,,False,India AI Dataset,kluisz
+Raftlabs,2018,Developer Tools,AI App Builder,India,Jaipur,4.0,20.0,50-100,Early Stage,,False,India AI Dataset,raftlabs
+Invide,2019,HR Tech,Developer Hiring AI,India,Delhi NCR,3.0,15.0,10-50,Early Stage,,False,India AI Dataset,invide
+Lokal,2018,Media Tech,Local Language AI,India,Hyderabad,17.5,90.0,100-200,Growth Stage,,False,India AI Dataset,lokal
+Arthmate,2016,Fintech AI,NBFC / Lending AI,India,Delhi NCR,20.0,100.0,100-200,Growth Stage,,False,India AI Dataset,arthmate
+Agara,2019,Enterprise AI,Voice AI,India,Bengaluru,13.5,0.0,50-100,Acquired,,False,India AI Dataset,agara
+Progcap,2017,Fintech AI,Supply Chain Finance,India,Delhi NCR,25.0,130.0,100-200,Growth Stage,,False,India AI Dataset,progcap
+Qik.ai,2018,Enterprise AI,Knowledge AI,India,Mumbai,5.0,25.0,50-100,Early Stage,,False,India AI Dataset,qik.ai
+Vidooly,2014,Media Tech,Video Analytics AI,India,Delhi NCR,5.5,30.0,50-100,Early Stage,,False,India AI Dataset,vidooly
+Cube Wealth,2017,Fintech AI,Robo-advisory,India,Mumbai,15.0,75.0,50-100,Growth Stage,,False,India AI Dataset,cube wealth
+Amber,2017,HR Tech,Employee Engagement AI,India,Delhi NCR,12.0,60.0,50-100,Growth Stage,,False,India AI Dataset,amber
+BotPenguin,2017,Enterprise AI,Chatbot Builder,India,Delhi NCR,2.0,10.0,10-50,Early Stage,,False,India AI Dataset,botpenguin
+WizCommerce,2021,Retail AI,B2B Commerce AI,India,Delhi NCR,3.5,18.0,10-50,Early Stage,,False,India AI Dataset,wizcommerce
+Recur Club,2021,Fintech AI,Revenue Based Finance,India,Bengaluru,30.0,150.0,50-100,Growth Stage,,False,India AI Dataset,recur club
+Astrosure AI,2024,Consumer AI,Astrology AI,India,Chennai,6.0,30.0,10-50,Early Stage,,False,India AI Dataset,astrosure ai
+Livelytics,2021,Retail AI,Restaurant Analytics AI,India,Bengaluru,2.5,12.0,10-50,Early Stage,,False,India AI Dataset,livelytics
+Talkdesk (India team),2011,Enterprise AI,Contact Center AI,India,Bengaluru,498.0,10000.0,1000+,Late Stage,,True,India AI Dataset,talkdesk (india team)
+Slintel,2018,Enterprise AI,Sales Intelligence,India,Bengaluru,20.0,0.0,50-100,Acquired,,False,India AI Dataset,slintel
+Ozahub,2020,HealthTech,Pharma AI,India,Hyderabad,3.0,15.0,10-50,Early Stage,,False,India AI Dataset,ozahub
+Scaler,2019,EdTech,AI-powered Upskilling,India,Bengaluru,55.0,300.0,200-500,Growth Stage,,False,India AI Dataset,scaler
+Skillovilla,2020,EdTech,AI Career Platform,India,Delhi NCR,5.0,25.0,50-100,Early Stage,,False,India AI Dataset,skillovilla
+Hiver,2011,Productivity,Email AI / Helpdesk,India,Bengaluru,40.0,200.0,100-200,Growth Stage,,False,India AI Dataset,hiver
+Smallcase,2015,Fintech AI,Investment AI,India,Bengaluru,40.0,200.0,100-200,Growth Stage,,False,India AI Dataset,smallcase
+Recaptcha AI,2022,Security,Fraud Detection AI,India,Bengaluru,4.0,20.0,10-50,Early Stage,,False,India AI Dataset,recaptcha ai
+Locus,2015,Logistics,Dispatch Intelligence AI,India,Bengaluru,80.0,400.0,200-500,Growth Stage,,False,India AI Dataset,locus
+Turing,2018,HR Tech,Developer Matching AI,India,Bengaluru,140.0,1000.0,200-500,Late Stage,,True,India AI Dataset,turing
+Netcore Cloud,1997,MarTech,Marketing AI / CDP,India,Mumbai,100.0,500.0,500-1000,Growth Stage,,False,India AI Dataset,netcore cloud
+Turtlemint,2015,Fintech AI,Insurtech AI,India,Mumbai,180.0,900.0,200-500,Growth Stage,,False,India AI Dataset,turtlemint
+Arya.ag,2015,AgriTech,Agri Finance AI,India,Delhi NCR,100.0,500.0,200-500,Growth Stage,,False,India AI Dataset,arya.ag
+Cohere (India office),2019,Foundation Models,LLM API,India,Bengaluru,270.0,2200.0,200-500,Growth Stage,,False,India AI Dataset,cohere (india office)
+EarlySalary (Fibe),2015,Fintech AI,Consumer Lending AI,India,Pune,100.0,500.0,200-500,Growth Stage,,False,India AI Dataset,earlysalary (fibe)
+Razorpay,2014,Fintech AI,Payments AI,India,Bengaluru,741.0,7500.0,1000+,Late Stage,,True,India AI Dataset,razorpay
+Zepto,2021,Consumer AI,Quick Commerce AI,India,Mumbai,1400.0,5000.0,1000+,Late Stage,,True,India AI Dataset,zepto
+ByteDance,2017,Media & Entertainment,,China,Beijing,,225000.0,,Unicorn,,True,Unicorn Dataset,bytedance
+SpaceX,2012,Industrials,,United States,Hawthorne,,150000.0,,Unicorn,,True,Unicorn Dataset,spacex
+OpenAI,2019,Enterprise Tech,,United States,San Francisco,,80000.0,,Unicorn,,True,Unicorn Dataset,openai
+SHEIN,2018,Consumer & Retail,,Singapore,Singapore City,,66000.0,,Unicorn,,True,Unicorn Dataset,shein
+Stripe,2014,Financial Services,,United States,San Francisco,,65000.0,,Unicorn,,True,Unicorn Dataset,stripe
+Databricks,2019,Enterprise Tech,,United States,San Francisco,,43000.0,,Unicorn,,True,Unicorn Dataset,databricks
+Canva,2018,Enterprise Tech,,Australia,Surry Hills,,25400.0,,Unicorn,,True,Unicorn Dataset,canva
+Revolut,2018,Financial Services,,United Kingdom,London,,33000.0,,Unicorn,,True,Unicorn Dataset,revolut
+Epic Games,2018,Media & Entertainment,,United States,Cary,,22500.0,,Unicorn,,True,Unicorn Dataset,epic games
+Fanatics,2012,Consumer & Retail,,United States,Jacksonville,,31000.0,,Unicorn,,True,Unicorn Dataset,fanatics
+Chime,2019,Financial Services,,United States,San Francisco,,25000.0,,Unicorn,,True,Unicorn Dataset,chime
+Xiaohongshu,2016,Media & Entertainment,,China,Shanghai,,20000.0,,Unicorn,,True,Unicorn Dataset,xiaohongshu
+Miro,2022,Enterprise Tech,,United States,San Francisco,,17500.0,,Unicorn,,True,Unicorn Dataset,miro
+Anthropic,2023,Enterprise Tech,,United States,San Francisco,,16050.0,,Unicorn,,True,Unicorn Dataset,anthropic
+Yuanfudao,2017,Consumer & Retail,,China,Beijing,,15500.0,,Unicorn,,True,Unicorn Dataset,yuanfudao
+DJI Innovations,2015,Industrials,,China,Shenzhen,,15000.0,,Unicorn,,True,Unicorn Dataset,dji innovations
+Discord,2018,Media & Entertainment,,United States,San Francisco,,15000.0,,Unicorn,,True,Unicorn Dataset,discord
+Gopuff,2020,Consumer & Retail,,United States,Philadelphia,,15000.0,,Unicorn,,True,Unicorn Dataset,gopuff
+Yuanqi Senlin,2020,Consumer & Retail,,China,Beijing,,15000.0,,Unicorn,,True,Unicorn Dataset,yuanqi senlin
+Ripple,2019,Financial Services,,United States,San Francisco,,15000.0,,Unicorn,,True,Unicorn Dataset,ripple
+Plaid,2018,Financial Services,,United States,San Francisco,,13500.0,,Unicorn,,True,Unicorn Dataset,plaid
+OpenSea,2021,Media & Entertainment,,United States,New York,,13300.0,,Unicorn,,True,Unicorn Dataset,opensea
+Celonis,2018,Enterprise Tech,,Germany,Munich,,13000.0,,Unicorn,,True,Unicorn Dataset,celonis
+Grammarly,2019,Media & Entertainment,,United States,San Francisco,,13000.0,,Unicorn,,True,Unicorn Dataset,grammarly
+Devoted Health,2018,Healthcare & Life Sciences,,United States,Waltham,,12900.0,,Unicorn,,True,Unicorn Dataset,devoted health
+Faire,2019,Consumer & Retail,,United States,San Francisco,,12590.0,,Unicorn,,True,Unicorn Dataset,faire
+Brex,2018,Enterprise Tech,,United States,San Francisco,,12300.0,,Unicorn,,True,Unicorn Dataset,brex
+JUUL Labs,2017,Consumer & Retail,,United States,San Francisco,,12000.0,,Unicorn,,True,Unicorn Dataset,juul labs
+Bitmain Technologies,2018,Enterprise Tech,,China,Beijing,,12000.0,,Unicorn,,True,Unicorn Dataset,bitmain technologies
+GoodLeap,2021,Financial Services,,United States,Roseville,,12000.0,,Unicorn,,True,Unicorn Dataset,goodleap
+Xingsheng Selected,2020,Consumer & Retail,,China,Changsha,,12000.0,,Unicorn,,True,Unicorn Dataset,xingsheng selected
+Deel,2021,Enterprise Tech,,United States,San Francisco,,12000.0,,Unicorn,,True,Unicorn Dataset,deel
+Airtable,2018,Enterprise Tech,,United States,San Francisco,,11700.0,,Unicorn,,True,Unicorn Dataset,airtable
+BYJU's,2017,Consumer & Retail,,India,Bengaluru,,11500.0,,Unicorn,,True,Unicorn Dataset,byju's
+ZongMu Technology,2021,Industrials,,China,Shanghai,,11400.0,,Unicorn,,True,Unicorn Dataset,zongmu technology
+Rippling,2020,Enterprise Tech,,United States,San Francisco,,11250.0,,Unicorn,,True,Unicorn Dataset,rippling
+Global Switch,2016,Enterprise Tech,,United Kingdom,London,,11100.0,,Unicorn,,True,Unicorn Dataset,global switch
+Checkout.com,2019,Financial Services,,United Kingdom,London,,11000.0,,Unicorn,,True,Unicorn Dataset,checkout.com
+Bolt,2021,Financial Services,,United States,San Francisco,,11000.0,,Unicorn,,True,Unicorn Dataset,bolt
+Alchemy,2021,Enterprise Tech,,United States,San Francisco,,10200.0,,Unicorn,,True,Unicorn Dataset,alchemy
+Huolala,2019,Industrials,,China,Guangzhou,,10000.0,,Unicorn,,True,Unicorn Dataset,huolala
+Wiz,2021,Enterprise Tech,,Israel,Tel Aviv,,10000.0,,Unicorn,,True,Unicorn Dataset,wiz
+Gusto,2015,Financial Services,,United States,San Francisco,,10000.0,,Unicorn,,True,Unicorn Dataset,gusto
+Chehaoduo,2016,Consumer & Retail,,China,Beijing,,10000.0,,Unicorn,,True,Unicorn Dataset,chehaoduo
+Talkdesk,2018,Enterprise Tech,,United States,San Francisco,,10000.0,,Unicorn,,True,Unicorn Dataset,talkdesk
+Notion,2020,Enterprise Tech,,United States,San Francisco,,10000.0,,Unicorn,,True,Unicorn Dataset,notion
+Digital Currency Group,2021,Financial Services,,United States,New York,,10000.0,,Unicorn,,True,Unicorn Dataset,digital currency group
+KuCoin,2022,Financial Services,,Seychelles,Victoria,,10000.0,,Unicorn,,True,Unicorn Dataset,kucoin
+ServiceTitan,2018,Industrials,,United States,Glendale,,9500.0,,Unicorn,,True,Unicorn Dataset,servicetitan
+HEYTEA,2019,Consumer & Retail,,China,Shenzhen,,9280.0,,Unicorn,,True,Unicorn Dataset,heytea
+N26,2019,Financial Services,,Germany,Berlin,,9230.0,,Unicorn,,True,Unicorn Dataset,n26
+Navan,2018,Enterprise Tech,,United States,Palo Alto,,9200.0,,Unicorn,,True,Unicorn Dataset,navan
+VAST Data,2020,Enterprise Tech,,United States,New York,,9100.0,,Unicorn,,True,Unicorn Dataset,vast data
+Northvolt,2019,Industrials,,Sweden,Stockholm,,9080.0,,Unicorn,,True,Unicorn Dataset,northvolt
+Tanium,2015,Enterprise Tech,,United States,Kirkland,,9000.0,,Unicorn,,True,Unicorn Dataset,tanium
+Niantic,2017,Media & Entertainment,,United States,San Francisco,,9000.0,,Unicorn,,True,Unicorn Dataset,niantic
+OYO Rooms,2018,Consumer & Retail,,India,Gurugram,,9000.0,,Unicorn,,True,Unicorn Dataset,oyo rooms
+Getir,2021,Consumer & Retail,,Turkey,Istanbul,,8800.0,,Unicorn,,True,Unicorn Dataset,getir
+Rapyd,2019,Financial Services,,United Kingdom,London,,8750.0,,Unicorn,,True,Unicorn Dataset,rapyd
+Kavak,2020,Industrials,,Mexico,Lerma de Villada,,8700.0,,Unicorn,,True,Unicorn Dataset,kavak
+Nuro,2019,Industrials,,United States,Mountain View,,8600.0,,Unicorn,,True,Unicorn Dataset,nuro
+Chainalysis,2020,Financial Services,,United States,New York,,8600.0,,Unicorn,,True,Unicorn Dataset,chainalysis
+Pony.ai,2018,Industrials,,United States,Fremont,,8600.0,,Unicorn,,True,Unicorn Dataset,pony.ai
+Personio,2021,Enterprise Tech,,Germany,Munich,,8500.0,,Unicorn,,True,Unicorn Dataset,personio
+Anduril,2019,Industrials,,United States,Irvine,,8480.0,,Unicorn,,True,Unicorn Dataset,anduril
+SumUp,2019,Financial Services,,United Kingdom,London,,8500.0,,Unicorn,,True,Unicorn Dataset,sumup
+Bolt,2018,Industrials,,Estonia,Tallinn,,8400.0,,Unicorn,,True,Unicorn Dataset,bolt
+Lacework,2021,Enterprise Tech,,United States,San Jose,,8300.0,,Unicorn,,True,Unicorn Dataset,lacework
+Tipalti,2020,Enterprise Tech,,United States,San Mateo,,8300.0,,Unicorn,,True,Unicorn Dataset,tipalti
+Tempus,2018,Healthcare & Life Sciences,,United States,Chicago,,8100.0,,Unicorn,,True,Unicorn Dataset,tempus
+Swiggy,2018,Consumer & Retail,,India,Bengaluru,,8000.0,,Unicorn,,True,Unicorn Dataset,swiggy
+Dream11,2019,Media & Entertainment,,India,Mumbai,,8000.0,,Unicorn,,True,Unicorn Dataset,dream11
+Fireblocks,2021,Financial Services,,United States,New York,,8000.0,,Unicorn,,True,Unicorn Dataset,fireblocks
+Flexport,2018,Industrials,,United States,San Francisco,,8000.0,,Unicorn,,True,Unicorn Dataset,flexport
+FalconX,2021,Financial Services,,United States,San Mateo,,8000.0,,Unicorn,,True,Unicorn Dataset,falconx
+Caris,2021,Healthcare & Life Sciences,,United States,Irving,,7830.0,,Unicorn,,True,Unicorn Dataset,caris
+Dapper Labs,2021,Media & Entertainment,,Canada,Vancouver,,7600.0,,Unicorn,,True,Unicorn Dataset,dapper labs
+Netskope,2018,Enterprise Tech,,United States,Santa Clara,,7500.0,,Unicorn,,True,Unicorn Dataset,netskope
+Razorpay,2020,Financial Services,,India,Bengaluru,,7500.0,,Unicorn,,True,Unicorn Dataset,razorpay
+Automattic,2013,Media & Entertainment,,United States,San Francisco,,7500.0,,Unicorn,,True,Unicorn Dataset,automattic
+Carta,2019,Financial Services,,United States,San Francisco,,7400.0,,Unicorn,,True,Unicorn Dataset,carta
+Snyk,2020,Enterprise Tech,,United States,Boston,,7400.0,,Unicorn,,True,Unicorn Dataset,snyk
+Scale AI,2019,Enterprise Tech,,United States,San Francisco,,7300.0,,Unicorn,,True,Unicorn Dataset,scale ai
+Gong,2020,Enterprise Tech,,United States,Palo Alto,,7250.0,,Unicorn,,True,Unicorn Dataset,gong
+Gemini,2021,Financial Services,,United States,New York,,7100.0,,Unicorn,,True,Unicorn Dataset,gemini
+Blockchain.com,2021,Financial Services,,United Kingdom,London,,7000.0,,Unicorn,,True,Unicorn Dataset,blockchain.com
+Toss,2018,Financial Services,,South Korea,Seoul,,7000.0,,Unicorn,,True,Unicorn Dataset,toss
+We Doctor,2015,Healthcare & Life Sciences,,China,Hangzhou,,7000.0,,Unicorn,,True,Unicorn Dataset,we doctor
+Ro,2020,Healthcare & Life Sciences,,United States,New York,,7000.0,,Unicorn,,True,Unicorn Dataset,ro
+ConsenSys,2021,Enterprise Tech,,United States,New York,,7000.0,,Unicorn,,True,Unicorn Dataset,consensys
+Automation Anywhere,2018,Enterprise Tech,,United States,San Jose,,6800.0,,Unicorn,,True,Unicorn Dataset,automation anywhere
+1Password,2021,Enterprise Tech,,Canada,Toronto,,6800.0,,Unicorn,,True,Unicorn Dataset,1password
+Klarna,2011,Financial Services,,Sweden,Stockholm,,6700.0,,Unicorn,,True,Unicorn Dataset,klarna
+Ziroom,2018,Consumer & Retail,,China,Beijing,,6600.0,,Unicorn,,True,Unicorn Dataset,ziroom
+SVOLT,2020,Industrials,,China,Changzhou,,6510.0,,Unicorn,,True,Unicorn Dataset,svolt
+National Stock Exchange of India,2020,Financial Services,,India,Mumbai,,6500.0,,Unicorn,,True,Unicorn Dataset,national stock exchange of india
+Mollie,2020,Financial Services,,Netherlands,Amsterdam,,6500.0,,Unicorn,,True,Unicorn Dataset,mollie
+Ola,2014,Industrials,,India,Bengaluru,,7500.0,,Unicorn,,True,Unicorn Dataset,ola
+Doctolib,2019,Healthcare & Life Sciences,,France,Paris,,6400.0,,Unicorn,,True,Unicorn Dataset,doctolib
+CRED,2021,Financial Services,,India,Bengaluru,,6400.0,,Unicorn,,True,Unicorn Dataset,cred
+DataRobot,2019,Enterprise Tech,,United States,Boston,,6300.0,,Unicorn,,True,Unicorn Dataset,datarobot
+Upgrade,2018,Financial Services,,United States,San Francisco,,6280.0,,Unicorn,,True,Unicorn Dataset,upgrade
+Hinge Health,2021,Healthcare & Life Sciences,,United States,San Francisco,,6200.0,,Unicorn,,True,Unicorn Dataset,hinge health
+Black Unicorn Factory,2021,Enterprise Tech,,United States,Los Angeles,,6100.0,,Unicorn,,True,Unicorn Dataset,black unicorn factory
+Benchling,2021,Healthcare & Life Sciences,,United States,San Francisco,,6100.0,,Unicorn,,True,Unicorn Dataset,benchling
+Applied Intuition,2020,Industrials,,United States,Sunnyvale,,6000.0,,Unicorn,,True,Unicorn Dataset,applied intuition
+Commure,2021,Healthcare & Life Sciences,,United States,San Francisco,,6000.0,,Unicorn,,True,Unicorn Dataset,commure
+Royole Corporation,2015,Industrials,,China,Shenzhen,,6000.0,,Unicorn,,True,Unicorn Dataset,royole corporation
+iCapital Network,2021,Financial Services,,United States,New York,,6000.0,,Unicorn,,True,Unicorn Dataset,icapital network
+6Sense,2021,Enterprise Tech,,United States,San Francisco,,5200.0,,Unicorn,,True,Unicorn Dataset,6sense
+Attentive,2020,Enterprise Tech,,United States,Hoboken,,5990.0,,Unicorn,,True,Unicorn Dataset,attentive
+Easyhome,2018,Consumer & Retail,,China,Beijing,,5780.0,,Unicorn,,True,Unicorn Dataset,easyhome
+Lianjia,2016,Financial Services,,China,Beijing,,5770.0,,Unicorn,,True,Unicorn Dataset,lianjia
+Cityblock Health,2020,Healthcare & Life Sciences,,United States,Brooklyn,,5700.0,,Unicorn,,True,Unicorn Dataset,cityblock health
+Workato,2021,Enterprise Tech,,United States,Mountain View,,5700.0,,Unicorn,,True,Unicorn Dataset,workato
+Back Market,2021,Consumer & Retail,,France,Paris,,5700.0,,Unicorn,,True,Unicorn Dataset,back market
+RELEX,2022,Consumer & Retail,,Finland,Helsinki,,5700.0,,Unicorn,,True,Unicorn Dataset,relex
+The Boring Company,2022,Industrials,,United States,Pflugerville,,5700.0,,Unicorn,,True,Unicorn Dataset,the boring company
+Postman,2020,Enterprise Tech,,United States,San Francisco,,5600.0,,Unicorn,,True,Unicorn Dataset,postman
+FiveTran,2020,Enterprise Tech,,United States,Oakland,,5600.0,,Unicorn,,True,Unicorn Dataset,fivetran
+ContentSquare,2021,Enterprise Tech,,France,Paris,,5600.0,,Unicorn,,True,Unicorn Dataset,contentsquare
+Trade Republic,2021,Financial Services,,Germany,Berlin,,5360.0,,Unicorn,,True,Unicorn Dataset,trade republic
+Rappi,2018,Consumer & Retail,,Colombia,Bogota,,5250.0,,Unicorn,,True,Unicorn Dataset,rappi
+Collibra,2019,Enterprise Tech,,Belgium,Brussels,,5250.0,,Unicorn,,True,Unicorn Dataset,collibra
+OneTrust,2019,Enterprise Tech,,United States,Atlanta,,4500.0,,Unicorn,,True,Unicorn Dataset,onetrust
+QuintoAndar,2019,Financial Services,,Brazil,Campinas,,5100.0,,Unicorn,,True,Unicorn Dataset,quintoandar
+Monzo,2018,Financial Services,,United Kingdom,London,,5070.0,,Unicorn,,True,Unicorn Dataset,monzo
+C6 Bank,2020,Financial Services,,Brazil,Sao Paulo,,5050.0,,Unicorn,,True,Unicorn Dataset,c6 bank
+Redwood Materials,2021,Industrials,,United States,Carson City,,5000.0,,Unicorn,,True,Unicorn Dataset,redwood materials
+Hello TransTech,2018,Industrials,,China,Shanghai,,5000.0,,Unicorn,,True,Unicorn Dataset,hello transtech
+Airwallex,2019,Financial Services,,Australia,Melbourne,,5500.0,,Unicorn,,True,Unicorn Dataset,airwallex
+Mambu,2021,Financial Services,,Netherlands,Amsterdam,,5500.0,,Unicorn,,True,Unicorn Dataset,mambu
+Horizon Robotics,2019,Industrials,,China,Beijing,,5000.0,,Unicorn,,True,Unicorn Dataset,horizon robotics
+Howden Group Holdings,2020,Insurance,,United Kingdom,London,,5000.0,,Unicorn,,True,Unicorn Dataset,howden group holdings
+SambaNova Systems,2021,Enterprise Tech,,United States,Palo Alto,,5000.0,,Unicorn,,True,Unicorn Dataset,sambanova systems
+ZEPZ,2021,Financial Services,,United Kingdom,London,,5000.0,,Unicorn,,True,Unicorn Dataset,zepz
+OakNorth Bank,2017,Financial Services,,United Kingdom,London,,5000.0,,Unicorn,,True,Unicorn Dataset,oaknorth bank
+Moon Active,2020,Media & Entertainment,,Israel,Tel Aviv,,5000.0,,Unicorn,,True,Unicorn Dataset,moon active
+OfBusiness,2021,Industrials,,India,Gurgaon,,5000.0,,Unicorn,,True,Unicorn Dataset,ofbusiness
+Cockroach Labs,2021,Enterprise Tech,,United States,New York,,5000.0,,Unicorn,,True,Unicorn Dataset,cockroach labs
+Pine Labs,2020,Financial Services,,India,Noida,,5000.0,,Unicorn,,True,Unicorn Dataset,pine labs
+Qonto,2022,Enterprise Tech,,France,Paris,,5000.0,,Unicorn,,True,Unicorn Dataset,qonto
+Ola Electric Mobility,2019,Industrials,,India,Bengaluru,,5500.0,,Unicorn,,True,Unicorn Dataset,ola electric mobility
+Icertis,2019,Enterprise Tech,,United States,Bellevue,,5000.0,,Unicorn,,True,Unicorn Dataset,icertis
+Hopper,2021,Consumer & Retail,,Canada,Montreal,,5000.0,,Unicorn,,True,Unicorn Dataset,hopper
+VerSe Innovation,2020,Media & Entertainment,,India,Bengaluru,,5000.0,,Unicorn,,True,Unicorn Dataset,verse innovation
+ShareChat,2021,Media & Entertainment,,India,Bengaluru,,5000.0,,Unicorn,,True,Unicorn Dataset,sharechat
+Coalition,2021,Insurance,,United States,San Francisco,,5000.0,,Unicorn,,True,Unicorn Dataset,coalition
+Grafana Labs,2021,Enterprise Tech,,United States,New York,,4930.0,,Unicorn,,True,Unicorn Dataset,grafana labs
+Meesho,2021,Consumer & Retail,,India,Bengaluru,,3500.0,,Unicorn,,True,Unicorn Dataset,meesho
+Cerebral,2021,Healthcare & Life Sciences,,United States,San Francisco,,4800.0,,Unicorn,,True,Unicorn Dataset,cerebral
+Creditas,2020,Financial Services,,Brazil,Sao Paulo,,4800.0,,Unicorn,,True,Unicorn Dataset,creditas
+Reify Health,2021,Healthcare & Life Sciences,,United States,Boston,,4800.0,,Unicorn,,True,Unicorn Dataset,reify health
+Chipone,2021,Industrials,,China,Beijing,,4730.0,,Unicorn,,True,Unicorn Dataset,chipone
+BetterUp,2021,Enterprise Tech,,United States,San Francisco,,4700.0,,Unicorn,,True,Unicorn Dataset,betterup
+Pleo,2021,Enterprise Tech,,Denmark,Copenhagen,,4700.0,,Unicorn,,True,Unicorn Dataset,pleo
+SonarSource,2022,Enterprise Tech,,Switzerland,Geneva,,4700.0,,Unicorn,,True,Unicorn Dataset,sonarsource
+Lyra Health,2020,Healthcare & Life Sciences,,United States,Burlingame,,5850.0,,Unicorn,,True,Unicorn Dataset,lyra health
+Ramp,2021,Enterprise Tech,,United States,New York,,5800.0,,Unicorn,,True,Unicorn Dataset,ramp
+Checkr,2019,Enterprise Tech,,United States,San Francisco,,4600.0,,Unicorn,,True,Unicorn Dataset,checkr
+Skims,2021,Consumer & Retail,,United States,Los Angeles,,4000.0,,Unicorn,,True,Unicorn Dataset,skims
+Color,2021,Healthcare & Life Sciences,,United States,Burlingame,,4600.0,,Unicorn,,True,Unicorn Dataset,color
+Lendable,2021,Financial Services,,United Kingdom,London,,4580.0,,Unicorn,,True,Unicorn Dataset,lendable
+Vinted,2019,Consumer & Retail,,Lithuania,Vilnius,,4530.0,,Unicorn,,True,Unicorn Dataset,vinted
+VIPKid,2016,Consumer & Retail,,China,Beijing,,4500.0,,Unicorn,,True,Unicorn Dataset,vipkid
+Socure,2021,Financial Services,,United States,New York,,4500.0,,Unicorn,,True,Unicorn Dataset,socure
+wefox,2019,Insurance,,Germany,Berlin,,4500.0,,Unicorn,,True,Unicorn Dataset,wefox
+Lenskart,2019,Consumer & Retail,,India,Faridabad,,4500.0,,Unicorn,,True,Unicorn Dataset,lenskart
+Hugging Face,2022,Enterprise Tech,,United States,New York,,4500.0,,Unicorn,,True,Unicorn Dataset,hugging face
+Outreach,2019,Enterprise Tech,,United States,Seattle,,4400.0,,Unicorn,,True,Unicorn Dataset,outreach
+WeRide,2020,Industrials,,China,Guangzhou,,4400.0,,Unicorn,,True,Unicorn Dataset,weride
+Guild Education,2019,Enterprise Tech,,United States,Denver,,4400.0,,Unicorn,,True,Unicorn Dataset,guild education
+Arctic Wolf Networks,2020,Enterprise Tech,,United States,Eden Prairie,,4300.0,,Unicorn,,True,Unicorn Dataset,arctic wolf networks
+OutSystems,2018,Enterprise Tech,,United States,Boston,,4300.0,,Unicorn,,True,Unicorn Dataset,outsystems
+Sorare,2021,Media & Entertainment,,France,Paris,,4300.0,,Unicorn,,True,Unicorn Dataset,sorare
+Zipline,2019,Industrials,,United States,South San Francisco,,4200.0,,Unicorn,,True,Unicorn Dataset,zipline
+Relativity,2020,Industrials,,United States,Inglewood,,4200.0,,Unicorn,,True,Unicorn Dataset,relativity
+Miaoshou Doctor,2019,Healthcare & Life Sciences,,China,Beijing,,4250.0,,Unicorn,,True,Unicorn Dataset,miaoshou doctor
+ThoughtSpot,2018,Enterprise Tech,,United States,Sunnyvale,,4200.0,,Unicorn,,True,Unicorn Dataset,thoughtspot
+Globalization Partners,2022,Enterprise Tech,,United States,Boston,,4200.0,,Unicorn,,True,Unicorn Dataset,globalization partners
+dbt Labs,2021,Enterprise Tech,,United States,Philadelphia,,4200.0,,Unicorn,,True,Unicorn Dataset,dbt labs
+SSENSE,2021,Consumer & Retail,,Canada,Montreal,,4150.0,,Unicorn,,True,Unicorn Dataset,ssense
+Dataminr,2018,Enterprise Tech,,United States,New York,,4100.0,,Unicorn,,True,Unicorn Dataset,dataminr
+BitPanda,2021,Financial Services,,Austria,Vienna,,4110.0,,Unicorn,,True,Unicorn Dataset,bitpanda
+Weee!,2021,Consumer & Retail,,United States,Fremont,,4100.0,,Unicorn,,True,Unicorn Dataset,weee!
+Skydance Media,2020,Media & Entertainment,,United States,Santa Monica,,4000.0,,Unicorn,,True,Unicorn Dataset,skydance media
+Houzz,2014,Consumer & Retail,,United States,Palo Alto,,4000.0,,Unicorn,,True,Unicorn Dataset,houzz
+Yello Mobile,2014,Consumer & Retail,,South Korea,Seoul,,4000.0,,Unicorn,,True,Unicorn Dataset,yello mobile
+Inflection AI,2022,Enterprise Tech,,United States,Palo Alto,,4000.0,,Unicorn,,True,Unicorn Dataset,inflection ai
+MEGVII,2017,Enterprise Tech,,China,Beijing,,4000.0,,Unicorn,,True,Unicorn Dataset,megvii
+Greensill,2018,Financial Services,,United Kingdom,London,,4000.0,,Unicorn,,True,Unicorn Dataset,greensill
+Impossible Foods,2019,Consumer & Retail,,United States,Redwood City,,4000.0,,Unicorn,,True,Unicorn Dataset,impossible foods
+Radiology Partners,2018,Healthcare & Life Sciences,,United States,El Segundo,,4000.0,,Unicorn,,True,Unicorn Dataset,radiology partners
+Next Insurance,2019,Insurance,,United States,Palo Alto,,4000.0,,Unicorn,,True,Unicorn Dataset,next insurance
+PointClickCare,2021,Healthcare & Life Sciences,,Canada,Mississauga,,4000.0,,Unicorn,,True,Unicorn Dataset,pointclickcare
+Zapier,2021,Enterprise Tech,,United States,Sunnyvale,,4000.0,,Unicorn,,True,Unicorn Dataset,zapier
+Clubhouse,2021,Media & Entertainment,,United States,San Francisco,,4000.0,,Unicorn,,True,Unicorn Dataset,clubhouse
+BrowserStack,2021,Enterprise Tech,,Ireland,Dublin,,4000.0,,Unicorn,,True,Unicorn Dataset,browserstack
+Rubrik,2017,Enterprise Tech,,United States,Palo Alto,,4000.0,,Unicorn,,True,Unicorn Dataset,rubrik
+Melio,2021,Financial Services,,United States,New York,,4000.0,,Unicorn,,True,Unicorn Dataset,melio
+Vuori,2021,Consumer & Retail,,United States,Carlsbad,,4000.0,,Unicorn,,True,Unicorn Dataset,vuori
+ClickUp,2020,Enterprise Tech,,United States,San Diego,,4000.0,,Unicorn,,True,Unicorn Dataset,clickup
+Cerebras Systems,2018,Enterprise Tech,,United States,Los Altos,,4000.0,,Unicorn,,True,Unicorn Dataset,cerebras systems
+Farmers Business Network,2020,Industrials,,United States,San Carlos,,4000.0,,Unicorn,,True,Unicorn Dataset,farmers business network
+Branch,2018,Enterprise Tech,,United States,Redwood City,,4000.0,,Unicorn,,True,Unicorn Dataset,branch
+Aurora Solar,2021,Industrials,,United States,San Francisco,,4000.0,,Unicorn,,True,Unicorn Dataset,aurora solar
+Webflow,2021,Enterprise Tech,,United States,San Francisco,,4000.0,,Unicorn,,True,Unicorn Dataset,webflow
+Yuga Labs,2022,Media & Entertainment,,United States,Miami,,4000.0,,Unicorn,,True,Unicorn Dataset,yuga labs
+Digit Insurance,2021,Insurance,,India,Bengaluru,,4000.0,,Unicorn,,True,Unicorn Dataset,digit insurance
+Abnormal Security,2022,Enterprise Tech,,United States,San Francisco,,4000.0,,Unicorn,,True,Unicorn Dataset,abnormal security
+Medlinker,2018,Healthcare & Life Sciences,,China,Chengdu,,3920.0,,Unicorn,,True,Unicorn Dataset,medlinker
+StockX,2019,Consumer & Retail,,United States,Detroit,,3800.0,,Unicorn,,True,Unicorn Dataset,stockx
+MessageBird,2020,Enterprise Tech,,Netherlands,Amsterdam,,3800.0,,Unicorn,,True,Unicorn Dataset,messagebird
+Articulate,2021,Enterprise Tech,,United States,New York,,3750.0,,Unicorn,,True,Unicorn Dataset,articulate
+Dutchie,2021,Consumer & Retail,,United States,Bend,,3750.0,,Unicorn,,True,Unicorn Dataset,dutchie
+Cohesity,2018,Enterprise Tech,,United States,San Jose,,3700.0,,Unicorn,,True,Unicorn Dataset,cohesity
+Dataiku,2019,Enterprise Tech,,United States,New York,,3700.0,,Unicorn,,True,Unicorn Dataset,dataiku
+GOAT,2020,Consumer & Retail,,United States,Culver City,,3700.0,,Unicorn,,True,Unicorn Dataset,goat
+Noom,2021,Healthcare & Life Sciences,,United States,New York,,3700.0,,Unicorn,,True,Unicorn Dataset,noom
+Papaya Global,2021,Enterprise Tech,,United States,New York,,3700.0,,Unicorn,,True,Unicorn Dataset,papaya global
+Abogen,2021,Healthcare & Life Sciences,,China,Suzhou,,3700.0,,Unicorn,,True,Unicorn Dataset,abogen
+Harness,2021,Enterprise Tech,,United States,San Francisco,,3700.0,,Unicorn,,True,Unicorn Dataset,harness
+Whatnot,2021,Consumer & Retail,,United States,Marina del Rey,,3700.0,,Unicorn,,True,Unicorn Dataset,whatnot
+o9 Solutions,2020,Enterprise Tech,,United States,Dallas,,3700.0,,Unicorn,,True,Unicorn Dataset,o9 solutions
+Autograph,2022,Media & Entertainment,,United States,Santa Monica,,3660.0,,Unicorn,,True,Unicorn Dataset,autograph
+Relativity,2021,Enterprise Tech,,United States,Chicago,,3600.0,,Unicorn,,True,Unicorn Dataset,relativity
+Whoop,2020,Healthcare & Life Sciences,,United States,Boston,,3600.0,,Unicorn,,True,Unicorn Dataset,whoop
+Course Hero,2020,Consumer & Retail,,United States,Redwood City,,3600.0,,Unicorn,,True,Unicorn Dataset,course hero
+SpotOn,2021,Financial Services,,United States,San Francisco,,3600.0,,Unicorn,,True,Unicorn Dataset,spoton
+Otto Bock HealthCare,2017,Healthcare & Life Sciences,,Germany,Duderstadt,,3520.0,,Unicorn,,True,Unicorn Dataset,otto bock healthcare
+Indigo Ag,2017,Industrials,,United States,Boston,,3500.0,,Unicorn,,True,Unicorn Dataset,indigo ag
+eToro,2023,Financial Services,,United Kingdom,London,,3500.0,,Unicorn,,True,Unicorn Dataset,etoro
+HyalRoute,2020,Industrials,,Singapore,Singapore City,,3500.0,,Unicorn,,True,Unicorn Dataset,hyalroute
+Rec Room,2021,Media & Entertainment,,United States,Seattle,,3500.0,,Unicorn,,True,Unicorn Dataset,rec room
+Mirakl,2020,Consumer & Retail,,France,Paris,,3500.0,,Unicorn,,True,Unicorn Dataset,mirakl
+Tekion,2020,Industrials,,United States,San Ramon,,3500.0,,Unicorn,,True,Unicorn Dataset,tekion
+GoStudent,2021,Consumer & Retail,,Austria,Vienna,,3500.0,,Unicorn,,True,Unicorn Dataset,gostudent
+Highspot,2021,Enterprise Tech,,United States,Seattle,,3500.0,,Unicorn,,True,Unicorn Dataset,highspot
+Handshake,2021,Enterprise Tech,,United States,San Francisco,,3500.0,,Unicorn,,True,Unicorn Dataset,handshake
+ChargeBee Technologies,2021,Financial Services,,United States,San Francisco,,3500.0,,Unicorn,,True,Unicorn Dataset,chargebee technologies
+Flock Safety,2021,Consumer & Retail,,United States,Atlanta,,3500.0,,Unicorn,,True,Unicorn Dataset,flock safety
+Helion Energy,2021,Industrials,,United States,Redmond,,3500.0,,Unicorn,,True,Unicorn Dataset,helion energy
+Acronis,2019,Enterprise Tech,,Switzerland,Schaffhausen,,3500.0,,Unicorn,,True,Unicorn Dataset,acronis
+Unacademy,2020,Consumer & Retail,,India,Bengaluru,,3440.0,,Unicorn,,True,Unicorn Dataset,unacademy
+Odoo,2021,Enterprise Tech,,Belgium,Louvain-la-Neuve,,3430.0,,Unicorn,,True,Unicorn Dataset,odoo
+MoonPay,2021,Financial Services,,United States,Miami,,3400.0,,Unicorn,,True,Unicorn Dataset,moonpay
+Upstox,2021,Financial Services,,India,Mumbai,,3400.0,,Unicorn,,True,Unicorn Dataset,upstox
+Improbable,2017,Media & Entertainment,,United Kingdom,London,,3360.0,,Unicorn,,True,Unicorn Dataset,improbable
+Youxia Motors,2018,Industrials,,China,Shanghai,,3350.0,,Unicorn,,True,Unicorn Dataset,youxia motors
+OwnBackup,2021,Enterprise Tech,,United States,Englewood Cliffs,,3350.0,,Unicorn,,True,Unicorn Dataset,ownbackup
+Starburst,2021,Enterprise Tech,,United States,Boston,,3350.0,,Unicorn,,True,Unicorn Dataset,starburst
+Sila,2019,Industrials,,United States,Alameda,,3300.0,,Unicorn,,True,Unicorn Dataset,sila
+Komodo Health,2020,Healthcare & Life Sciences,,United States,San Francisco,,3300.0,,Unicorn,,True,Unicorn Dataset,komodo health
+Kurly,2021,Consumer & Retail,,South Korea,Seoul,,3300.0,,Unicorn,,True,Unicorn Dataset,kurly
+Cars24,2020,Industrials,,India,Gurgaon,,3300.0,,Unicorn,,True,Unicorn Dataset,cars24
+BlockDaemon,2021,Financial Services,,United States,Los Angeles,,3250.0,,Unicorn,,True,Unicorn Dataset,blockdaemon
+Dadi Cinema,2016,Media & Entertainment,,China,Shenzhen,,3240.0,,Unicorn,,True,Unicorn Dataset,dadi cinema
+Aiven,2021,Enterprise Tech,,Finland,Helsinki,,3210.0,,Unicorn,,True,Unicorn Dataset,aiven
+Thumbtack,2015,Consumer & Retail,,United States,San Francisco,,3200.0,,Unicorn,,True,Unicorn Dataset,thumbtack
+Cedar,2021,Healthcare & Life Sciences,,United States,New York,,3200.0,,Unicorn,,True,Unicorn Dataset,cedar
+Eruditus Executive Education,2021,Enterprise Tech,,India,Mumbai,,3200.0,,Unicorn,,True,Unicorn Dataset,eruditus executive education
+Blockstream,2021,Financial Services,,Canada,Vancouver,,3200.0,,Unicorn,,True,Unicorn Dataset,blockstream
+Innovaccer,2021,Healthcare & Life Sciences,,United States,San Francisco,,3200.0,,Unicorn,,True,Unicorn Dataset,innovaccer
+Ironclad,2022,Enterprise Tech,,United States,Sacramento,,3200.0,,Unicorn,,True,Unicorn Dataset,ironclad
+Eikon Therapeutics,2022,Healthcare & Life Sciences,,United States,Hayward,,3200.0,,Unicorn,,True,Unicorn Dataset,eikon therapeutics
+Retool,2021,Enterprise Tech,,United States,San Francisco,,3200.0,,Unicorn,,True,Unicorn Dataset,retool
+Verkada,2020,Industrials,,United States,San Mateo,,3200.0,,Unicorn,,True,Unicorn Dataset,verkada
+PsiQuantum,2021,Enterprise Tech,,United States,Palo Alto,,3150.0,,Unicorn,,True,Unicorn Dataset,psiquantum
+HighRadius,2020,Financial Services,,United States,Houston,,3100.0,,Unicorn,,True,Unicorn Dataset,highradius
+Bilt Rewards,2022,Financial Services,,United States,New York,,3100.0,,Unicorn,,True,Unicorn Dataset,bilt rewards
+Nuvemshop,2021,Consumer & Retail,,Brazil,Sao Paulo,,3100.0,,Unicorn,,True,Unicorn Dataset,nuvemshop
+LayerZero Labs,2022,Enterprise Tech,,United States,New York,,3000.0,,Unicorn,,True,Unicorn Dataset,layerzero labs
+Nord Security,2022,Enterprise Tech,,Lithuania,Vilnius,,3000.0,,Unicorn,,True,Unicorn Dataset,nord security
+Yixia,2015,Media & Entertainment,,China,Beijing,,3000.0,,Unicorn,,True,Unicorn Dataset,yixia
+Traveloka,2017,Consumer & Retail,,Indonesia,Jakarta,,3000.0,,Unicorn,,True,Unicorn Dataset,traveloka
+SouChe Holdings,2017,Industrials,,China,Hangzhou,,3000.0,,Unicorn,,True,Unicorn Dataset,souche holdings
+BGL Group,2017,Insurance,,United Kingdom,Peterborough,,3000.0,,Unicorn,,True,Unicorn Dataset,bgl group
+Circle,2018,Financial Services,,United States,Boston,,3000.0,,Unicorn,,True,Unicorn Dataset,circle
+Zuoyebang,2018,Consumer & Retail,,China,Beijing,,3000.0,,Unicorn,,True,Unicorn Dataset,zuoyebang
+FlixMobility,2019,Industrials,,Germany,Munich,,3000.0,,Unicorn,,True,Unicorn Dataset,flixmobility
+Wildlife Studios,2019,Media & Entertainment,,Brazil,Sao Paulo,,3000.0,,Unicorn,,True,Unicorn Dataset,wildlife studios
+ApplyBoard,2020,Consumer & Retail,,Canada,Kitchener,,3200.0,,Unicorn,,True,Unicorn Dataset,applyboard
+Forter,2020,Enterprise Tech,,United States,New York,,3000.0,,Unicorn,,True,Unicorn Dataset,forter
+Calendly,2021,Enterprise Tech,,United States,Atlanta,,3000.0,,Unicorn,,True,Unicorn Dataset,calendly
+BlockFi,2021,Financial Services,,United States,Jersey City,,3000.0,,Unicorn,,True,Unicorn Dataset,blockfi
+ActiveCampaign,2021,Enterprise Tech,,United States,Chicago,,3000.0,,Unicorn,,True,Unicorn Dataset,activecampaign
+CMR Surgical,2019,Healthcare & Life Sciences,,United Kingdom,Cambridge,,3000.0,,Unicorn,,True,Unicorn Dataset,cmr surgical
+Lucid Software,2021,Enterprise Tech,,United States,South Jordan,,3000.0,,Unicorn,,True,Unicorn Dataset,lucid software
+Age of Learning,2016,Consumer & Retail,,United States,Glendale,,3000.0,,Unicorn,,True,Unicorn Dataset,age of learning
+Carbon Health,2021,Healthcare & Life Sciences,,United States,San Francisco,,3000.0,,Unicorn,,True,Unicorn Dataset,carbon health
+Contentful,2021,Enterprise Tech,,Germany,Berlin,,3000.0,,Unicorn,,True,Unicorn Dataset,contentful
+LaunchDarkly,2021,Enterprise Tech,,United States,Oakland,,3000.0,,Unicorn,,True,Unicorn Dataset,launchdarkly
+Seismic,2018,Enterprise Tech,,United States,San Diego,,3000.0,,Unicorn,,True,Unicorn Dataset,seismic
+Sky Mavis,2021,Media & Entertainment,,Vietnam,Ho Chi Minh City,,3000.0,,Unicorn,,True,Unicorn Dataset,sky mavis
+Outschool,2021,Consumer & Retail,,United States,San Francisco,,3000.0,,Unicorn,,True,Unicorn Dataset,outschool
+TradingView,2021,Financial Services,,United States,Westerville,,3000.0,,Unicorn,,True,Unicorn Dataset,tradingview
+Groww,2021,Financial Services,,India,Bengaluru,,3000.0,,Unicorn,,True,Unicorn Dataset,groww
+Podium,2020,Consumer & Retail,,United States,Lehi,,3000.0,,Unicorn,,True,Unicorn Dataset,podium
+Via,2020,Industrials,,United States,New York,,3500.0,,Unicorn,,True,Unicorn Dataset,via
+Anchorage Digital,2021,Financial Services,,United States,San Francisco,,3000.0,,Unicorn,,True,Unicorn Dataset,anchorage digital
+Inxeption,2022,Industrials,,United States,San Francisco,,3000.0,,Unicorn,,True,Unicorn Dataset,inxeption
+Lattice,2021,Enterprise Tech,,United States,San Francisco,,3000.0,,Unicorn,,True,Unicorn Dataset,lattice
+Flutterwave,2021,Financial Services,,United States,San Francisco,,3000.0,,Unicorn,,True,Unicorn Dataset,flutterwave
+Amber Group,2021,Financial Services,,Singapore,Singapore City,,3000.0,,Unicorn,,True,Unicorn Dataset,amber group
+Cross River Bank,2022,Financial Services,,United States,Fort Lee,,3000.0,,Unicorn,,True,Unicorn Dataset,cross river bank
+Remote,2021,Enterprise Tech,,United States,San Francisco,,3000.0,,Unicorn,,True,Unicorn Dataset,remote
+Sentry,2021,Enterprise Tech,,United States,San Francisco,,3000.0,,Unicorn,,True,Unicorn Dataset,sentry
+Kraken,2019,Financial Services,,United States,San Francisco,,2920.0,,Unicorn,,True,Unicorn Dataset,kraken
+Workrise,2019,Industrials,,United States,Austin,,2900.0,,Unicorn,,True,Unicorn Dataset,workrise
+BharatPe,2021,Financial Services,,India,New Delhi,,2850.0,,Unicorn,,True,Unicorn Dataset,bharatpe
+Gokin Solar,2022,Industrials,,China,Zhuhai,,2880.0,,Unicorn,,True,Unicorn Dataset,gokin solar
+DriveWealth,2021,Financial Services,,United States,Chatham,,2850.0,,Unicorn,,True,Unicorn Dataset,drivewealth
+Alan,2021,Healthcare & Life Sciences,,France,Paris,,2850.0,,Unicorn,,True,Unicorn Dataset,alan
+Meicai,2016,Consumer & Retail,,China,Beijing,,2800.0,,Unicorn,,True,Unicorn Dataset,meicai
+Nutrabolt,2022,Consumer & Retail,,United States,Austin,,2790.0,,Unicorn,,True,Unicorn Dataset,nutrabolt
+Graphcore,2018,Enterprise Tech,,United Kingdom,Bristol,,2770.0,,Unicorn,,True,Unicorn Dataset,graphcore
+Illumio,2015,Enterprise Tech,,United States,Sunnyvale,,2750.0,,Unicorn,,True,Unicorn Dataset,illumio
+MasterClass,2021,Media & Entertainment,,United States,San Francisco,,2750.0,,Unicorn,,True,Unicorn Dataset,masterclass
+Dream Games,2021,Media & Entertainment,,Turkey,Istanbul,,2750.0,,Unicorn,,True,Unicorn Dataset,dream games
+Transmit Security,2021,Enterprise Tech,,Israel,Tel Aviv,,2740.0,,Unicorn,,True,Unicorn Dataset,transmit security
+Hozon Auto,2022,Industrials,,China,Shanghai,,3950.0,,Unicorn,,True,Unicorn Dataset,hozon auto
+Tradeshift,2018,Enterprise Tech,,United States,San Francisco,,2700.0,,Unicorn,,True,Unicorn Dataset,tradeshift
+Nextiva,2021,Enterprise Tech,,United States,Scottsdale,,2700.0,,Unicorn,,True,Unicorn Dataset,nextiva
+Tridge,2022,Industrials,,South Korea,Seoul,,2700.0,,Unicorn,,True,Unicorn Dataset,tridge
+Thought Machine,2021,Financial Services,,United Kingdom,London,,2700.0,,Unicorn,,True,Unicorn Dataset,thought machine
+Starling Bank,2021,Financial Services,,United Kingdom,London,,2690.0,,Unicorn,,True,Unicorn Dataset,starling bank
+Figure,2024,Industrials,,United States,Sunnyvale,,2680.0,,Unicorn,,True,Unicorn Dataset,figure
+BackBase,2022,Financial Services,,Netherlands,Amsterdam,,2660.0,,Unicorn,,True,Unicorn Dataset,backbase
+ManoMano,2021,Consumer & Retail,,France,Paris,,2600.0,,Unicorn,,True,Unicorn Dataset,manomano
+Sourcegraph,2021,Enterprise Tech,,United States,San Francisco,,2620.0,,Unicorn,,True,Unicorn Dataset,sourcegraph
+Pendo,2019,Enterprise Tech,,United States,Raleigh,,2600.0,,Unicorn,,True,Unicorn Dataset,pendo
+Plume,2021,Industrials,,United States,Palo Alto,,2600.0,,Unicorn,,True,Unicorn Dataset,plume
+Moglix,2021,Industrials,,Singapore,Singapore City,,2600.0,,Unicorn,,True,Unicorn Dataset,moglix
+Axonius,2021,Enterprise Tech,,United States,New York,,2600.0,,Unicorn,,True,Unicorn Dataset,axonius
+Xinchao Media,2018,Media & Entertainment,,China,Chengdu,,2000.0,,Unicorn,,True,Unicorn Dataset,xinchao media
+JumpCloud,2021,Enterprise Tech,,United States,Louisville,,2620.0,,Unicorn,,True,Unicorn Dataset,jumpcloud
+Unico,2021,Enterprise Tech,,Brazil,Sao Paulo,,2600.0,,Unicorn,,True,Unicorn Dataset,unico
+Bending Spoons,2024,Consumer & Retail,,Italy,Milan,,2550.0,,Unicorn,,True,Unicorn Dataset,bending spoons
+Oura,2022,Healthcare & Life Sciences,,Finland,Oulu,,2550.0,,Unicorn,,True,Unicorn Dataset,oura
+JUST Egg,2017,Consumer & Retail,,United States,San Francisco,,2590.0,,Unicorn,,True,Unicorn Dataset,just egg
+Cribl,2021,Enterprise Tech,,United States,San Francisco,,2500.0,,Unicorn,,True,Unicorn Dataset,cribl
+Jetti Resources,2022,Industrials,,United States,Boulder,,2500.0,,Unicorn,,True,Unicorn Dataset,jetti resources
+ChaBaiDao,2023,Consumer & Retail,,China,Chengdu,,2520.0,,Unicorn,,True,Unicorn Dataset,chabaidao
+Claroty,2021,Enterprise Tech,,United States,New York,,2500.0,,Unicorn,,True,Unicorn Dataset,claroty
+AlphaSense,2022,Enterprise Tech,,United States,New York,,2500.0,,Unicorn,,True,Unicorn Dataset,alphasense
+Moonshot AI,2024,Consumer & Retail,,China,Beijing,,2500.0,,Unicorn,,True,Unicorn Dataset,moonshot ai
+Vista Global,2017,Industrials,,United Arab Emirates,Dubai,,2500.0,,Unicorn,,True,Unicorn Dataset,vista global
+BYTON,2018,Industrials,,China,Nanjing,,2500.0,,Unicorn,,True,Unicorn Dataset,byton
+Side,2021,Financial Services,,United States,San Francisco,,2500.0,,Unicorn,,True,Unicorn Dataset,side
+Spring Health,2021,Healthcare & Life Sciences,,United States,New York,,2500.0,,Unicorn,,True,Unicorn Dataset,spring health
+Infra.Market,2021,Industrials,,India,Thane,,2500.0,,Unicorn,,True,Unicorn Dataset,infra.market
+Varo Bank,2021,Financial Services,,United States,San Francisco,,2500.0,,Unicorn,,True,Unicorn Dataset,varo bank
+Cato Networks,2020,Enterprise Tech,,Israel,Tel Aviv,,3000.0,,Unicorn,,True,Unicorn Dataset,cato networks
+Aura,2021,Consumer & Retail,,United States,Burlington,,2500.0,,Unicorn,,True,Unicorn Dataset,aura
+Vercel,2021,Enterprise Tech,,United States,San Francisco,,2500.0,,Unicorn,,True,Unicorn Dataset,vercel
+Sysdig,2021,Enterprise Tech,,United States,San Francisco,,2500.0,,Unicorn,,True,Unicorn Dataset,sysdig
+Zetwerk,2021,Industrials,,India,Bengaluru,,2800.0,,Unicorn,,True,Unicorn Dataset,zetwerk
+Uniphore,2022,Enterprise Tech,,United States,Palo Alto,,2500.0,,Unicorn,,True,Unicorn Dataset,uniphore
+Somatus,2022,Healthcare & Life Sciences,,United States,McLean,,2500.0,,Unicorn,,True,Unicorn Dataset,somatus
+Immutable,2022,Media & Entertainment,,Australia,Sydney,,2500.0,,Unicorn,,True,Unicorn Dataset,immutable
+A24 Films,2022,Media & Entertainment,,United States,New York,,2500.0,,Unicorn,,True,Unicorn Dataset,a24 films
+SiFive,2022,Enterprise Tech,,United States,San Mateo,,2500.0,,Unicorn,,True,Unicorn Dataset,sifive
+Games24x7,2022,Media & Entertainment,,India,Mumbai,,2500.0,,Unicorn,,True,Unicorn Dataset,games24x7
+Fetch,2021,Consumer & Retail,,United States,Madison,,2500.0,,Unicorn,,True,Unicorn Dataset,fetch
+Coda Payments,2022,Financial Services,,Singapore,Singapore City,,2500.0,,Unicorn,,True,Unicorn Dataset,coda payments
+DriveNets,2021,Enterprise Tech,,Israel,Ra'anana,,2500.0,,Unicorn,,True,Unicorn Dataset,drivenets
+Hibob,2021,Enterprise Tech,,Israel,Tel Aviv,,2450.0,,Unicorn,,True,Unicorn Dataset,hibob
+Uala,2021,Financial Services,,Argentina,Buenos Aires,,2450.0,,Unicorn,,True,Unicorn Dataset,uala
+Mobile Premier League,2021,Media & Entertainment,,India,Bengaluru,,2450.0,,Unicorn,,True,Unicorn Dataset,mobile premier league
+insitro,2021,Healthcare & Life Sciences,,United States,South San Francisco,,2440.0,,Unicorn,,True,Unicorn Dataset,insitro
+Cgtz,2017,Financial Services,,China,Hangzhou,,2410.0,,Unicorn,,True,Unicorn Dataset,cgtz
+Star Charge,2021,Industrials,,China,Changzhou,,2410.0,,Unicorn,,True,Unicorn Dataset,star charge
+Carbon,2015,Industrials,,United States,Redwood City,,2400.0,,Unicorn,,True,Unicorn Dataset,carbon
+Rokt,2021,Consumer & Retail,,United States,New York,,2400.0,,Unicorn,,True,Unicorn Dataset,rokt
+Paxos,2021,Financial Services,,United States,New York,,2400.0,,Unicorn,,True,Unicorn Dataset,paxos
+Exabeam,2021,Enterprise Tech,,United States,Foster City,,2400.0,,Unicorn,,True,Unicorn Dataset,exabeam
+BitSight Technologies,2021,Enterprise Tech,,United States,Boston,,2400.0,,Unicorn,,True,Unicorn Dataset,bitsight technologies
+Trumid,2020,Financial Services,,United States,New York,,2400.0,,Unicorn,,True,Unicorn Dataset,trumid
+ABL Space Systems,2021,Industrials,,United States,El Segundo,,2400.0,,Unicorn,,True,Unicorn Dataset,abl space systems
+HoneyBook,2021,Enterprise Tech,,United States,San Francisco,,2400.0,,Unicorn,,True,Unicorn Dataset,honeybook
+Beta Technologies,2022,Industrials,,United States,South Burlington,,2400.0,,Unicorn,,True,Unicorn Dataset,beta technologies
+Project44,2021,Enterprise Tech,,United States,Chicago,,2620.0,,Unicorn,,True,Unicorn Dataset,project44
+Freenome,2020,Healthcare & Life Sciences,,United States,South San Francisco,,2620.0,,Unicorn,,True,Unicorn Dataset,freenome
+ManyPets,2021,Insurance,,United Kingdom,London,,2350.0,,Unicorn,,True,Unicorn Dataset,manypets
+Jobandtalent,2021,Enterprise Tech,,Spain,Madrid,,2350.0,,Unicorn,,True,Unicorn Dataset,jobandtalent
+WEMAKEPRICE,2015,Consumer & Retail,,South Korea,Seoul,,2340.0,,Unicorn,,True,Unicorn Dataset,wemakeprice
+Biren Technology,2020,Enterprise Tech,,China,Shanghai,,2320.0,,Unicorn,,True,Unicorn Dataset,biren technology
+Glean,2022,Enterprise Tech,,United States,Palo Alto,,2200.0,,Unicorn,,True,Unicorn Dataset,glean
+Voodoo,2020,Media & Entertainment,,France,Paris,,2310.0,,Unicorn,,True,Unicorn Dataset,voodoo
+Shield AI,2021,Industrials,,United States,San Diego,,2800.0,,Unicorn,,True,Unicorn Dataset,shield ai
+Uptake,2015,Industrials,,United States,Chicago,,2300.0,,Unicorn,,True,Unicorn Dataset,uptake
+Motive,2019,Industrials,,United States,San Francisco,,2850.0,,Unicorn,,True,Unicorn Dataset,motive
+Greenlight,2020,Financial Services,,United States,Atlanta,,2300.0,,Unicorn,,True,Unicorn Dataset,greenlight
+MoMo,2021,Financial Services,,Vietnam,Ho Chi Minh City,,2270.0,,Unicorn,,True,Unicorn Dataset,momo
+Algolia,2021,Enterprise Tech,,United States,San Francisco,,2250.0,,Unicorn,,True,Unicorn Dataset,algolia
+Pattern,2021,Consumer & Retail,,United States,Lehi,,2250.0,,Unicorn,,True,Unicorn Dataset,pattern
+Newfront Insurance,2022,Insurance,,United States,San Francisco,,2200.0,,Unicorn,,True,Unicorn Dataset,newfront insurance
+NuCom Group,2018,Consumer & Retail,,Germany,Unterfoehring,,2200.0,,Unicorn,,True,Unicorn Dataset,nucom group
+Skydio,2021,Industrials,,United States,Redwood City,,2200.0,,Unicorn,,True,Unicorn Dataset,skydio
+MUSINSA,2019,Consumer & Retail,,South Korea,Seoul,,2760.0,,Unicorn,,True,Unicorn Dataset,musinsa
+Current,2021,Financial Services,,United States,New York,,2200.0,,Unicorn,,True,Unicorn Dataset,current
+Bitso,2021,Financial Services,,Mexico,Mexico City,,2200.0,,Unicorn,,True,Unicorn Dataset,bitso
+Gympass,2019,Healthcare & Life Sciences,,United States,New York,,2400.0,,Unicorn,,True,Unicorn Dataset,gympass
+Dialpad,2020,Enterprise Tech,,United States,San Francisco,,2200.0,,Unicorn,,True,Unicorn Dataset,dialpad
+G7 Networks,2022,Industrials,,China,Beijing,,2200.0,,Unicorn,,True,Unicorn Dataset,g7 networks
+BloomReach,2022,Consumer & Retail,,United States,Mountain View,,2200.0,,Unicorn,,True,Unicorn Dataset,bloomreach
+Motif FoodWorks,2021,Industrials,,United States,Boston,,2200.0,,Unicorn,,True,Unicorn Dataset,motif foodworks
+Accelerant,2022,Insurance,,United Kingdom,Colchester,,2400.0,,Unicorn,,True,Unicorn Dataset,accelerant
+YITU Technology,2018,Enterprise Tech,,China,Shanghai,,2170.0,,Unicorn,,True,Unicorn Dataset,yitu technology
+Addepar,2021,Financial Services,,United States,Mountain View,,2170.0,,Unicorn,,True,Unicorn Dataset,addepar
+Qualia,2020,Financial Services,,United States,San Francisco,,2170.0,,Unicorn,,True,Unicorn Dataset,qualia
+Neo4j,2021,Enterprise Tech,,United States,San Mateo,,2000.0,,Unicorn,,True,Unicorn Dataset,neo4j
+CloudWalk,2021,Financial Services,,Brazil,Sao Paulo,,2150.0,,Unicorn,,True,Unicorn Dataset,cloudwalk
+CoinDCX,2021,Financial Services,,India,Maharashtra,,2150.0,,Unicorn,,True,Unicorn Dataset,coindcx
+Eightfold,2020,Enterprise Tech,,United States,Santa Clara,,2100.0,,Unicorn,,True,Unicorn Dataset,eightfold
+Urban Company,2021,Consumer & Retail,,India,Gurgaon,,2100.0,,Unicorn,,True,Unicorn Dataset,urban company
+Moveworks,2021,Enterprise Tech,,United States,Mountain View,,2100.0,,Unicorn,,True,Unicorn Dataset,moveworks
+Medable,2021,Healthcare & Life Sciences,,United States,Palo Alto,,2100.0,,Unicorn,,True,Unicorn Dataset,medable
+GoCardless,2022,Financial Services,,United Kingdom,London,,2100.0,,Unicorn,,True,Unicorn Dataset,gocardless
+Aledade,2021,Healthcare & Life Sciences,,United States,Bethesda,,3500.0,,Unicorn,,True,Unicorn Dataset,aledade
+FirstCry,2020,Consumer & Retail,,India,Pune,,3750.0,,Unicorn,,True,Unicorn Dataset,firstcry
+Forto,2021,Industrials,,Germany,Berlin,,2100.0,,Unicorn,,True,Unicorn Dataset,forto
+Jeeves,2022,Enterprise Tech,,United States,Orlando,,2100.0,,Unicorn,,True,Unicorn Dataset,jeeves
+Viva Wallet,2022,Financial Services,,Greece,Athens,,2050.0,,Unicorn,,True,Unicorn Dataset,viva wallet
+CoreWeave,2023,Enterprise Tech,,United States,Roseland,,2220.0,,Unicorn,,True,Unicorn Dataset,coreweave
+Mistral AI,2023,Enterprise Tech,,France,Paris,,2000.0,,Unicorn,,True,Unicorn Dataset,mistral ai
+Babel Finance,2022,Financial Services,,Hong Kong,Hong Kong,,2000.0,,Unicorn,,True,Unicorn Dataset,babel finance
+Trendy Group International,2012,Consumer & Retail,,Hong Kong,Kowloon,,2000.0,,Unicorn,,True,Unicorn Dataset,trendy group international
+GrubMarket,2021,Consumer & Retail,,United States,San Francisco,,2000.0,,Unicorn,,True,Unicorn Dataset,grubmarket
+BeZero,2022,Enterprise Tech,,United Kingdom,London,,2000.0,,Unicorn,,True,Unicorn Dataset,bezero
+Cohere,2023,Enterprise Tech,,Canada,Toronto,,2000.0,,Unicorn,,True,Unicorn Dataset,cohere
+GO1,2021,Enterprise Tech,,Australia,Brisbane,,2000.0,,Unicorn,,True,Unicorn Dataset,go1
+Clear Street,2022,Financial Services,,United States,New York,,2000.0,,Unicorn,,True,Unicorn Dataset,clear street
+Drata,2021,Enterprise Tech,,United States,San Diego,,2000.0,,Unicorn,,True,Unicorn Dataset,drata
+Mysten Labs,2022,Enterprise Tech,,United States,San Francisco,,2000.0,,Unicorn,,True,Unicorn Dataset,mysten labs
+Avant,2012,Financial Services,,United States,Chicago,,2000.0,,Unicorn,,True,Unicorn Dataset,avant
+Tubatu.com,2015,Consumer & Retail,,China,Shenzhen,,2000.0,,Unicorn,,True,Unicorn Dataset,tubatu.com
+BlaBlaCar,2015,Consumer & Retail,,France,Paris,,2000.0,,Unicorn,,True,Unicorn Dataset,blablacar
+HuiMin,2016,Consumer & Retail,,China,Beijing,,2000.0,,Unicorn,,True,Unicorn Dataset,huimin
+Preferred Networks,2018,Industrials,,Japan,Tokyo,,2000.0,,Unicorn,,True,Unicorn Dataset,preferred networks
+Formlabs,2018,Industrials,,United States,Somerville,,2000.0,,Unicorn,,True,Unicorn Dataset,formlabs
+Calm,2019,Healthcare & Life Sciences,,United States,San Francisco,,2000.0,,Unicorn,,True,Unicorn Dataset,calm
+Kaseya,2019,Enterprise Tech,,United States,Miami,,2000.0,,Unicorn,,True,Unicorn Dataset,kaseya
+Mafengwo,2019,Consumer & Retail,,China,Beijing,,2000.0,,Unicorn,,True,Unicorn Dataset,mafengwo
+Druva,2019,Enterprise Tech,,United States,Sunnyvale,,2000.0,,Unicorn,,True,Unicorn Dataset,druva
+Kujiale,2019,Consumer & Retail,,China,Hangzhou,,2000.0,,Unicorn,,True,Unicorn Dataset,kujiale
+AppsFlyer,2020,Enterprise Tech,,United States,San Francisco,,2000.0,,Unicorn,,True,Unicorn Dataset,appsflyer
+Redis,2020,Enterprise Tech,,United States,Mountain View,,2000.0,,Unicorn,,True,Unicorn Dataset,redis
+Xingyun Group,2020,Consumer & Retail,,China,Shenzhen,,2000.0,,Unicorn,,True,Unicorn Dataset,xingyun group
+Unqork,2020,Insurance,,United States,New York,,2000.0,,Unicorn,,True,Unicorn Dataset,unqork
+Virta Health,2020,Healthcare & Life Sciences,,United States,San Francisco,,2000.0,,Unicorn,,True,Unicorn Dataset,virta health
+ISN,2020,Industrials,,United States,Dallas,,2000.0,,Unicorn,,True,Unicorn Dataset,isn
+Earnix,2021,Insurance,,Israel,Giv'atayim,,2000.0,,Unicorn,,True,Unicorn Dataset,earnix
+Clearco,2021,Financial Services,,Canada,Toronto,,2000.0,,Unicorn,,True,Unicorn Dataset,clearco
+Hive,2021,Enterprise Tech,,United States,San Francisco,,2000.0,,Unicorn,,True,Unicorn Dataset,hive
+Kry,2021,Healthcare & Life Sciences,,Sweden,Stockholm,,2000.0,,Unicorn,,True,Unicorn Dataset,kry
+Kajabi,2021,Media & Entertainment,,United States,Irvine,,2000.0,,Unicorn,,True,Unicorn Dataset,kajabi
+Ethos,2021,Insurance,,United States,San Francisco,,2700.0,,Unicorn,,True,Unicorn Dataset,ethos
+PayFit,2022,Enterprise Tech,,United Kingdom,London,,2100.0,,Unicorn,,True,Unicorn Dataset,payfit
+Beisen,2021,Enterprise Tech,,China,Beijing,,2000.0,,Unicorn,,True,Unicorn Dataset,beisen
+Pipe,2021,Financial Services,,United States,Miami,,2000.0,,Unicorn,,True,Unicorn Dataset,pipe
+Iterable,2021,Enterprise Tech,,United States,San Francisco,,2000.0,,Unicorn,,True,Unicorn Dataset,iterable
+Astronergy,2023,Industrials,,China,Haining,,1820.0,,Unicorn,,True,Unicorn Dataset,astronergy
+Helsing,2023,Enterprise Tech,,Germany,Munchen,,1820.0,,Unicorn,,True,Unicorn Dataset,helsing
+Bunq,2021,Financial Services,,Netherlands,Amsterdam,,1800.0,,Unicorn,,True,Unicorn Dataset,bunq
+Quest Global,2023,Industrials,,Singapore,Singapore City,,1800.0,,Unicorn,,True,Unicorn Dataset,quest global
+Clip,2021,Financial Services,,Mexico,Mexico City,,2000.0,,Unicorn,,True,Unicorn Dataset,clip
+Loggi,2019,Industrials,,Brazil,Sao Paulo,,2000.0,,Unicorn,,True,Unicorn Dataset,loggi
+MURAL,2021,Enterprise Tech,,United States,San Francisco,,2000.0,,Unicorn,,True,Unicorn Dataset,mural
+OCSiAl,2019,Industrials,,Luxembourg,Leudelange,,2000.0,,Unicorn,,True,Unicorn Dataset,ocsial
+XtalPi,2021,Healthcare & Life Sciences,,China,Shenzhen,,2000.0,,Unicorn,,True,Unicorn Dataset,xtalpi
+Divvy Homes,2021,Financial Services,,United States,San Francisco,,2000.0,,Unicorn,,True,Unicorn Dataset,divvy homes
+Apeel Sciences,2020,Consumer & Retail,,United States,Goleta,,2000.0,,Unicorn,,True,Unicorn Dataset,apeel sciences
+Opay,2021,Financial Services,,Nigeria,Lagos,,2000.0,,Unicorn,,True,Unicorn Dataset,opay
+Aviatrix,2021,Enterprise Tech,,United States,Santa Clara,,2000.0,,Unicorn,,True,Unicorn Dataset,aviatrix
+SmartNews,2019,Media & Entertainment,,Japan,Tokyo,,2000.0,,Unicorn,,True,Unicorn Dataset,smartnews
+Misfits Market,2021,Consumer & Retail,,United States,Pennsauken,,2000.0,,Unicorn,,True,Unicorn Dataset,misfits market
+Black Sesame Technologies,2021,Industrials,,China,Shanghai,,2000.0,,Unicorn,,True,Unicorn Dataset,black sesame technologies
+Advance Intelligence Group,2021,Financial Services,,Singapore,Singapore City,,2000.0,,Unicorn,,True,Unicorn Dataset,advance intelligence group
+Modern Treasury,2021,Financial Services,,United States,San Francisco,,2000.0,,Unicorn,,True,Unicorn Dataset,modern treasury
+Magic Leap,2014,Enterprise Tech,,United States,Plantation,,2000.0,,Unicorn,,True,Unicorn Dataset,magic leap
+ClickHouse,2021,Enterprise Tech,,United States,Portola Valley,,2000.0,,Unicorn,,True,Unicorn Dataset,clickhouse
+Everlaw,2020,Enterprise Tech,,United States,Oakland,,2000.0,,Unicorn,,True,Unicorn Dataset,everlaw
+Zilch,2021,Financial Services,,United Kingdom,London,,2000.0,,Unicorn,,True,Unicorn Dataset,zilch
+VerbIT,2021,Enterprise Tech,,United States,New York,,2000.0,,Unicorn,,True,Unicorn Dataset,verbit
+StarkWare,2021,Enterprise Tech,,Israel,Netanya,,8000.0,,Unicorn,,True,Unicorn Dataset,starkware
+Netlify,2021,Enterprise Tech,,United States,San Francisco,,2000.0,,Unicorn,,True,Unicorn Dataset,netlify
+SWORD Health,2021,Healthcare & Life Sciences,,United States,New York,,2000.0,,Unicorn,,True,Unicorn Dataset,sword health
+LTK,2021,Media & Entertainment,,United States,Dallas,,2000.0,,Unicorn,,True,Unicorn Dataset,ltk
+Trax,2019,Consumer & Retail,,Singapore,Singapore City,,2000.0,,Unicorn,,True,Unicorn Dataset,trax
+Exotec,2022,Industrials,,France,Croix,,2000.0,,Unicorn,,True,Unicorn Dataset,exotec
+Dremio,2021,Enterprise Tech,,United States,Santa Clara,,2000.0,,Unicorn,,True,Unicorn Dataset,dremio
+Akulaku,2022,Financial Services,,Indonesia,Jakarta,,2000.0,,Unicorn,,True,Unicorn Dataset,akulaku
+Cloudinary,2022,Media & Entertainment,,United States,Santa Clara,,2000.0,,Unicorn,,True,Unicorn Dataset,cloudinary
+Lunar,2021,Financial Services,,Denmark,Aarhus,,2000.0,,Unicorn,,True,Unicorn Dataset,lunar
+UpGrad,2021,Consumer & Retail,,India,Mumbai,,2250.0,,Unicorn,,True,Unicorn Dataset,upgrad
+Salsify,2022,Consumer & Retail,,United States,Boston,,2000.0,,Unicorn,,True,Unicorn Dataset,salsify
+CertiK,2022,Enterprise Tech,,United States,New York,,2000.0,,Unicorn,,True,Unicorn Dataset,certik
+ROX Motor,2022,Industrials,,China,Shanghai,,2000.0,,Unicorn,,True,Unicorn Dataset,rox motor
+Devo Technology,2021,Enterprise Tech,,United States,Cambridge,,2000.0,,Unicorn,,True,Unicorn Dataset,devo technology
+ShiftKey,2023,Healthcare & Life Sciences,,United States,Dallas,,2000.0,,Unicorn,,True,Unicorn Dataset,shiftkey
+Rimac Automobili,2022,Industrials,,Croatia,Sveta Nedelja,,2000.0,,Unicorn,,True,Unicorn Dataset,rimac automobili
+Geek+,2018,Industrials,,China,Beijing,,2000.0,,Unicorn,,True,Unicorn Dataset,geek+
+21.co,2022,Financial Services,,United States,New York,,2000.0,,Unicorn,,True,Unicorn Dataset,21.co
+Solugen,2021,Industrials,,United States,Houston,,2000.0,,Unicorn,,True,Unicorn Dataset,solugen
+ZigBang,2022,Financial Services,,South Korea,Seoul,,1930.0,,Unicorn,,True,Unicorn Dataset,zigbang
+Ankorstore,2022,Consumer & Retail,,France,Paris,,1980.0,,Unicorn,,True,Unicorn Dataset,ankorstore
+InVision,2017,Enterprise Tech,,United States,New York,,1900.0,,Unicorn,,True,Unicorn Dataset,invision
+eDaili,2019,Financial Services,,China,Shanghai,,1900.0,,Unicorn,,True,Unicorn Dataset,edaili
+commercetools,2021,Enterprise Tech,,Germany,Munich,,1900.0,,Unicorn,,True,Unicorn Dataset,commercetools
+NinjaOne,2024,Enterprise Tech,,United States,Austin,,1900.0,,Unicorn,,True,Unicorn Dataset,ninjaone
+MX,2021,Financial Services,,United States,Lehi,,1900.0,,Unicorn,,True,Unicorn Dataset,mx
+CoinSwitch,2021,Financial Services,,India,Bangalore,,1900.0,,Unicorn,,True,Unicorn Dataset,coinswitch
+Acorns,2022,Financial Services,,United States,Irvine,,1900.0,,Unicorn,,True,Unicorn Dataset,acorns
+Fever,2022,Media & Entertainment,,United States,New York,,1960.0,,Unicorn,,True,Unicorn Dataset,fever
+Roofstock,2022,Financial Services,,United States,Oakland,,1940.0,,Unicorn,,True,Unicorn Dataset,roofstock
+thatgamecompany,2022,Media & Entertainment,,United States,Los Angeles,,1940.0,,Unicorn,,True,Unicorn Dataset,thatgamecompany
+ConcertAI,2022,Healthcare & Life Sciences,,United States,Boston,,1900.0,,Unicorn,,True,Unicorn Dataset,concertai
+Material Bank,2022,Industrials,,United States,Boca Raton,,1900.0,,Unicorn,,True,Unicorn Dataset,material bank
+Volocopter,2022,Industrials,,Germany,Bruchsal,,1870.0,,Unicorn,,True,Unicorn Dataset,volocopter
+ENOVATE,2019,Industrials,,China,Shanghai,,1850.0,,Unicorn,,True,Unicorn Dataset,enovate
+MEGAZONE,2022,Enterprise Tech,,South Korea,Seoul,,1830.0,,Unicorn,,True,Unicorn Dataset,megazone
+CFGI,2021,Financial Services,,United States,Boston,,1850.0,,Unicorn,,True,Unicorn Dataset,cfgi
+ZocDoc,2015,Healthcare & Life Sciences,,United States,New York,,1800.0,,Unicorn,,True,Unicorn Dataset,zocdoc
+Scroll,2023,Financial Services,,Seychelles,Victoria,,1800.0,,Unicorn,,True,Unicorn Dataset,scroll
+Diamond Foundry,2021,Industrials,,United States,San Francisco,,1800.0,,Unicorn,,True,Unicorn Dataset,diamond foundry
+Quantexa,2023,Enterprise Tech,,United Kingdom,London,,1800.0,,Unicorn,,True,Unicorn Dataset,quantexa
+FullStory,2021,Enterprise Tech,,United States,Atlanta,,1800.0,,Unicorn,,True,Unicorn Dataset,fullstory
+Lightricks,2019,Media & Entertainment,,Israel,Jerusalem,,1800.0,,Unicorn,,True,Unicorn Dataset,lightricks
+Opentrons,2021,Healthcare & Life Sciences,,United States,New York,,1800.0,,Unicorn,,True,Unicorn Dataset,opentrons
+Kindbody,2023,Healthcare & Life Sciences,,United States,Kindbody,,1800.0,,Unicorn,,True,Unicorn Dataset,kindbody
+Slice,2021,Financial Services,,India,Bengaluru,,1800.0,,Unicorn,,True,Unicorn Dataset,slice
+Cambrian BioPharma,2021,Healthcare & Life Sciences,,United States,Brooklyn,,1790.0,,Unicorn,,True,Unicorn Dataset,cambrian biopharma
+AIWAYS,2018,Industrials,,China,Shanghai,,1780.0,,Unicorn,,True,Unicorn Dataset,aiways
+Trulioo,2021,Financial Services,,Canada,Vancouver,,1750.0,,Unicorn,,True,Unicorn Dataset,trulioo
+BitGo,2023,Financial Services,,United States,Palo Alto,,1750.0,,Unicorn,,True,Unicorn Dataset,bitgo
+Spinny,2021,Industrials,,India,Gurugram,,1750.0,,Unicorn,,True,Unicorn Dataset,spinny
+Crusoe,2022,Industrials,,United States,Denver,,1750.0,,Unicorn,,True,Unicorn Dataset,crusoe
+Orca Security,2021,Enterprise Tech,,United States,Portland,,1800.0,,Unicorn,,True,Unicorn Dataset,orca security
+Apus Group,2015,Consumer & Retail,,China,Beijing,,1730.0,,Unicorn,,True,Unicorn Dataset,apus group
+Razor,2021,Consumer & Retail,,Germany,Berlin,,1700.0,,Unicorn,,True,Unicorn Dataset,razor
+Micro Connect,2023,Financial Services,,Hong Kong,Hong Kong,,1700.0,,Unicorn,,True,Unicorn Dataset,micro connect
+DailyPay,2021,Financial Services,,United States,New York,,1700.0,,Unicorn,,True,Unicorn Dataset,dailypay
+Udaan,2018,Consumer & Retail,,India,Bengaluru,,1700.0,,Unicorn,,True,Unicorn Dataset,udaan
+Harry's,2018,Consumer & Retail,,United States,New York,,1700.0,,Unicorn,,True,Unicorn Dataset,harry's
+PAX,2018,Consumer & Retail,,United States,San Francisco,,1700.0,,Unicorn,,True,Unicorn Dataset,pax
+DispatchHealth,2021,Healthcare & Life Sciences,,United States,Denver,,1700.0,,Unicorn,,True,Unicorn Dataset,dispatchhealth
+Pax8,2022,Enterprise Tech,,United States,Greenwood Village,,1700.0,,Unicorn,,True,Unicorn Dataset,pax8
+Multiverse,2022,Enterprise Tech,,United Kingdom,London,,1700.0,,Unicorn,,True,Unicorn Dataset,multiverse
+Front,2022,Enterprise Tech,,United States,San Francisco,,1700.0,,Unicorn,,True,Unicorn Dataset,front
+Redesign Health,2022,Healthcare & Life Sciences,,United States,New York,,1700.0,,Unicorn,,True,Unicorn Dataset,redesign health
+Tessera Therapeutics,2022,Healthcare & Life Sciences,,United States,Cambridge,,1690.0,,Unicorn,,True,Unicorn Dataset,tessera therapeutics
+Ascend Elements,2023,Industrials,,United States,Westborough,,1670.0,,Unicorn,,True,Unicorn Dataset,ascend elements
+Uniswap,2022,Financial Services,,United States,New York,,1660.0,,Unicorn,,True,Unicorn Dataset,uniswap
+Kredivo Holdings,2022,Financial Services,,Singapore,Singapore City,,1660.0,,Unicorn,,True,Unicorn Dataset,kredivo holdings
+Unite Us,2021,Healthcare & Life Sciences,,United States,New York,,1600.0,,Unicorn,,True,Unicorn Dataset,unite us
+CircleCI,2021,Enterprise Tech,,United States,San Francisco,,1700.0,,Unicorn,,True,Unicorn Dataset,circleci
+Wave,2021,Financial Services,,Senegal,Dakar,,1700.0,,Unicorn,,True,Unicorn Dataset,wave
+Dragos,2021,Industrials,,United States,Hanover,,1700.0,,Unicorn,,True,Unicorn Dataset,dragos
+Reltio,2021,Enterprise Tech,,United States,Redwood City,,1700.0,,Unicorn,,True,Unicorn Dataset,reltio
+H2O.ai,2021,Enterprise Tech,,United States,Mountain View,,1700.0,,Unicorn,,True,Unicorn Dataset,h2o.ai
+ZenBusiness,2021,Enterprise Tech,,United States,Austin,,1700.0,,Unicorn,,True,Unicorn Dataset,zenbusiness
+Carsome,2021,Industrials,,Malaysia,Selangor,,1700.0,,Unicorn,,True,Unicorn Dataset,carsome
+Productboard,2022,Enterprise Tech,,United States,San Francisco,,1730.0,,Unicorn,,True,Unicorn Dataset,productboard
+Spotter,2022,Financial Services,,United States,Los Angeles,,1700.0,,Unicorn,,True,Unicorn Dataset,spotter
+Optimism,2022,Enterprise Tech,,United States,San Francisco,,1650.0,,Unicorn,,True,Unicorn Dataset,optimism
+Incredible Health,2022,Healthcare & Life Sciences,,United States,San Francisco,,1650.0,,Unicorn,,True,Unicorn Dataset,incredible health
+Jusfoun Big Data,2018,Enterprise Tech,,China,Beijing,,1620.0,,Unicorn,,True,Unicorn Dataset,jusfoun big data
+Transcarent,2022,Healthcare & Life Sciences,,United States,San Francisco,,1620.0,,Unicorn,,True,Unicorn Dataset,transcarent
+DealShare,2022,Consumer & Retail,,India,Bengaluru,,1700.0,,Unicorn,,True,Unicorn Dataset,dealshare
+Zhubajie,2015,Enterprise Tech,,China,Chongqing,,1610.0,,Unicorn,,True,Unicorn Dataset,zhubajie
+Solaris,2021,Financial Services,,Germany,Berlin,,1600.0,,Unicorn,,True,Unicorn Dataset,solaris
+Apollo,2023,Enterprise Tech,,United States,Covina,,1600.0,,Unicorn,,True,Unicorn Dataset,apollo
+DataStax,2021,Enterprise Tech,,United States,Santa Clara,,1600.0,,Unicorn,,True,Unicorn Dataset,datastax
+Infinidat,2015,Enterprise Tech,,United States,Waltham,,1600.0,,Unicorn,,True,Unicorn Dataset,infinidat
+Afiniti,2017,Enterprise Tech,,Bermuda,Hamilton,,1600.0,,Unicorn,,True,Unicorn Dataset,afiniti
+Cao Cao Mobility,2018,Industrials,,China,Hangzhou,,1600.0,,Unicorn,,True,Unicorn Dataset,cao cao mobility
+Clari,2021,Enterprise Tech,,United States,Sunnyvale,,2600.0,,Unicorn,,True,Unicorn Dataset,clari
+Clio,2021,Enterprise Tech,,Canada,Burnaby,,1600.0,,Unicorn,,True,Unicorn Dataset,clio
+SafetyCulture,2021,Industrials,,Australia,Sydney,,1760.0,,Unicorn,,True,Unicorn Dataset,safetyculture
+Monte Carlo,2022,Enterprise Tech,,United States,San Francisco,,1600.0,,Unicorn,,True,Unicorn Dataset,monte carlo
+Cresta,2022,Enterprise Tech,,United States,San Francisco,,1600.0,,Unicorn,,True,Unicorn Dataset,cresta
+Extend,2021,Insurance,,United States,San Francisco,,1360.0,,Unicorn,,True,Unicorn Dataset,extend
+Employment Hero,2023,Enterprise Tech,,Australia,Sydney,,1370.0,,Unicorn,,True,Unicorn Dataset,employment hero
+Generate Biomedicines,2021,Healthcare & Life Sciences,,United States,Cambridge,,1360.0,,Unicorn,,True,Unicorn Dataset,generate biomedicines
+Lambda Labs,2023,Enterprise Tech,,United States,San Francisco,,1500.0,,Unicorn,,True,Unicorn Dataset,lambda labs
+Cognite,2021,Industrials,,Norway,Lysaker,,1500.0,,Unicorn,,True,Unicorn Dataset,cognite
+ASAPP,2021,Enterprise Tech,,United States,New York,,1600.0,,Unicorn,,True,Unicorn Dataset,asapp
+SmartHR,2021,Enterprise Tech,,Japan,Tokyo,,1600.0,,Unicorn,,True,Unicorn Dataset,smarthr
+Mercury,2021,Financial Services,,United States,San Francisco,,1600.0,,Unicorn,,True,Unicorn Dataset,mercury
+HomeLight,2021,Financial Services,,United States,San Francisco,,1700.0,,Unicorn,,True,Unicorn Dataset,homelight
+Truepill,2021,Healthcare & Life Sciences,,United States,Hayward,,1600.0,,Unicorn,,True,Unicorn Dataset,truepill
+ezCater,2019,Consumer & Retail,,United States,Boston,,1600.0,,Unicorn,,True,Unicorn Dataset,ezcater
+Wayflyer,2022,Financial Services,,Ireland,Dublin,,1600.0,,Unicorn,,True,Unicorn Dataset,wayflyer
+Capitolis,2022,Financial Services,,United States,New York,,1600.0,,Unicorn,,True,Unicorn Dataset,capitolis
+Vanta,2022,Enterprise Tech,,United States,San Francisco,,1600.0,,Unicorn,,True,Unicorn Dataset,vanta
+Magic Eden,2022,Media & Entertainment,,United States,San Francisco,,1600.0,,Unicorn,,True,Unicorn Dataset,magic eden
+Pave,2022,Enterprise Tech,,United States,San Francisco,,1600.0,,Unicorn,,True,Unicorn Dataset,pave
+Astranis,2021,Industrials,,United States,San Francisco,,1600.0,,Unicorn,,True,Unicorn Dataset,astranis
+Promasidor Holdings,2016,Consumer & Retail,,South Africa,Bryanston,,1590.0,,Unicorn,,True,Unicorn Dataset,promasidor holdings
+GalaxySpace,2020,Industrials,,China,Beijing,,1580.0,,Unicorn,,True,Unicorn Dataset,galaxyspace
+Icon,2022,Industrials,,United States,Austin,,1570.0,,Unicorn,,True,Unicorn Dataset,icon
+Fresh Life Style Supply Chain Management,2022,Consumer & Retail,,China,Chengdu,,1570.0,,Unicorn,,True,Unicorn Dataset,fresh life style supply chain management
+Alloy,2021,Financial Services,,United States,New York,,1550.0,,Unicorn,,True,Unicorn Dataset,alloy
+Baiwang,2019,Enterprise Tech,,China,Beijing,,1550.0,,Unicorn,,True,Unicorn Dataset,baiwang
+Iluvatar CoreX,2021,Enterprise Tech,,China,Shanghai,,1550.0,,Unicorn,,True,Unicorn Dataset,iluvatar corex
+Wenheyou,2021,Consumer & Retail,,China,Hunan,,1550.0,,Unicorn,,True,Unicorn Dataset,wenheyou
+Kitopi,2021,Consumer & Retail,,United Arab Emirates,Dubai,,1550.0,,Unicorn,,True,Unicorn Dataset,kitopi
+Ximalaya FM,2017,Media & Entertainment,,China,Shanghai,,1520.0,,Unicorn,,True,Unicorn Dataset,ximalaya fm
+Carzone,2019,Industrials,,China,Jiangsu,,1520.0,,Unicorn,,True,Unicorn Dataset,carzone
+Tabby,2023,Financial Services,,United Arab Emirates,Dubai,,1500.0,,Unicorn,,True,Unicorn Dataset,tabby
+Runway,2023,Media & Entertainment,,United States,New York,,1500.0,,Unicorn,,True,Unicorn Dataset,runway
+OpenWeb,2021,Media & Entertainment,,United States,New York,,1500.0,,Unicorn,,True,Unicorn Dataset,openweb
+bolttech,2021,Insurance,,Singapore,Singapore City,,1500.0,,Unicorn,,True,Unicorn Dataset,bolttech
+First Mode,2022,Industrials,,United States,Seattle,,1500.0,,Unicorn,,True,Unicorn Dataset,first mode
+Mu Sigma,2013,Enterprise Tech,,United States,Northbrook,,1500.0,,Unicorn,,True,Unicorn Dataset,mu sigma
+Kushki,2022,Financial Services,,Ecuador,Quito,,1500.0,,Unicorn,,True,Unicorn Dataset,kushki
+Jasper,2022,Enterprise Tech,,United States,Austin,,1500.0,,Unicorn,,True,Unicorn Dataset,jasper
+Orna Therapeutics,2022,Healthcare & Life Sciences,,United States,Cambridge,,1500.0,,Unicorn,,True,Unicorn Dataset,orna therapeutics
+TuJia,2015,Consumer & Retail,,China,Beijing,,1500.0,,Unicorn,,True,Unicorn Dataset,tujia
+Mofang Living,2016,Consumer & Retail,,China,Shanghai,,1500.0,,Unicorn,,True,Unicorn Dataset,mofang living
+Gett,2016,Industrials,,United Kingdom,London,,1500.0,,Unicorn,,True,Unicorn Dataset,gett
+DT Dream,2017,Enterprise Tech,,China,Hangzhou,,1500.0,,Unicorn,,True,Unicorn Dataset,dt dream
+Changingedu,2017,Consumer & Retail,,China,Shanghai,,1500.0,,Unicorn,,True,Unicorn Dataset,changingedu
+XiaoZhu,2017,Consumer & Retail,,China,Beijing,,1500.0,,Unicorn,,True,Unicorn Dataset,xiaozhu
+JOLLY Information Technology,2018,Consumer & Retail,,China,Hangzhou,,1500.0,,Unicorn,,True,Unicorn Dataset,jolly information technology
+Yijiupi,2018,Consumer & Retail,,China,Beijing,,1500.0,,Unicorn,,True,Unicorn Dataset,yijiupi
+Cambridge Mobile Telematics,2018,Insurance,,United States,Cambridge,,1500.0,,Unicorn,,True,Unicorn Dataset,cambridge mobile telematics
+Collective Health,2019,Healthcare & Life Sciences,,United States,San Francisco,,1500.0,,Unicorn,,True,Unicorn Dataset,collective health
+Strava,2020,Healthcare & Life Sciences,,United States,San Francisco,,1500.0,,Unicorn,,True,Unicorn Dataset,strava
+Zenoti,2020,Consumer & Retail,,United States,Bellevue,,1500.0,,Unicorn,,True,Unicorn Dataset,zenoti
+K Health,2021,Healthcare & Life Sciences,,United States,New York,,1500.0,,Unicorn,,True,Unicorn Dataset,k health
+Uplight,2021,Industrials,,United States,Boulder,,1500.0,,Unicorn,,True,Unicorn Dataset,uplight
+ID.me,2021,Consumer & Retail,,United States,McLean,,1500.0,,Unicorn,,True,Unicorn Dataset,id.me
+Snapdocs,2021,Financial Services,,United States,San Francisco,,1500.0,,Unicorn,,True,Unicorn Dataset,snapdocs
+Chipper Cash,2021,Financial Services,,United States,San Francisco,,2000.0,,Unicorn,,True,Unicorn Dataset,chipper cash
+SHIFT UP,2023,Media & Entertainment,,South Korea,Seoul,,1470.0,,Unicorn,,True,Unicorn Dataset,shift up
+Ledger,2021,Financial Services,,France,Paris,,1470.0,,Unicorn,,True,Unicorn Dataset,ledger
+Next Silicon,2021,Enterprise Tech,,Israel,Tel Aviv,,1500.0,,Unicorn,,True,Unicorn Dataset,next silicon
+YQNlink,2021,Industrials,,China,Shanghai,,1500.0,,Unicorn,,True,Unicorn Dataset,yqnlink
+impact.com,2021,Enterprise Tech,,United States,Santa Barbara,,1500.0,,Unicorn,,True,Unicorn Dataset,impact.com
+SmartRecruiters,2021,Enterprise Tech,,United States,San Francisco,,1500.0,,Unicorn,,True,Unicorn Dataset,smartrecruiters
+NotCo,2021,Consumer & Retail,,Chile,Santiago,,1500.0,,Unicorn,,True,Unicorn Dataset,notco
+Culture Amp,2021,Enterprise Tech,,Australia,Richmond,,1500.0,,Unicorn,,True,Unicorn Dataset,culture amp
+TaxBit,2021,Financial Services,,United States,Draper,,1500.0,,Unicorn,,True,Unicorn Dataset,taxbit
+Pacaso,2021,Financial Services,,United States,Cincinnati,,1500.0,,Unicorn,,True,Unicorn Dataset,pacaso
+1047 Games,2021,Media & Entertainment,,United States,Zephyr Cove,,1500.0,,Unicorn,,True,Unicorn Dataset,1047 games
+Matillion,2021,Enterprise Tech,,United Kingdom,Altrincham,,1500.0,,Unicorn,,True,Unicorn Dataset,matillion
+Persona,2021,Enterprise Tech,,United States,San Francisco,,1500.0,,Unicorn,,True,Unicorn Dataset,persona
+Ascend Money,2021,Financial Services,,Thailand,Bangkok,,1500.0,,Unicorn,,True,Unicorn Dataset,ascend money
+Andela,2021,Enterprise Tech,,United States,New York,,1500.0,,Unicorn,,True,Unicorn Dataset,andela
+Built,2021,Financial Services,,United States,Nashville,,1500.0,,Unicorn,,True,Unicorn Dataset,built
+CoinList,2021,Financial Services,,United States,San Francisco,,1500.0,,Unicorn,,True,Unicorn Dataset,coinlist
+Lusha,2021,Enterprise Tech,,United States,New York,,1500.0,,Unicorn,,True,Unicorn Dataset,lusha
+cult.fit,2021,Healthcare & Life Sciences,,India,Bengaluru,,1500.0,,Unicorn,,True,Unicorn Dataset,cult.fit
+Olist,2021,Consumer & Retail,,Brazil,Curitiba,,1500.0,,Unicorn,,True,Unicorn Dataset,olist
+Paradox,2021,Enterprise Tech,,United States,Scottsdale,,1500.0,,Unicorn,,True,Unicorn Dataset,paradox
+Airbyte,2021,Enterprise Tech,,United States,San Francisco,,1500.0,,Unicorn,,True,Unicorn Dataset,airbyte
+StoreDot,2022,Industrials,,Israel,Herzliya,,1500.0,,Unicorn,,True,Unicorn Dataset,storedot
+Spendesk,2022,Enterprise Tech,,France,Paris,,1500.0,,Unicorn,,True,Unicorn Dataset,spendesk
+Veriff,2022,Enterprise Tech,,Estonia,Tallinn,,1500.0,,Unicorn,,True,Unicorn Dataset,veriff
+ElasticRun,2022,Industrials,,India,Pune,,1500.0,,Unicorn,,True,Unicorn Dataset,elasticrun
+Veho,2021,Consumer & Retail,,United States,Boulder,,1500.0,,Unicorn,,True,Unicorn Dataset,veho
+Temporal,2022,Enterprise Tech,,United States,Bellevue,,1500.0,,Unicorn,,True,Unicorn Dataset,temporal
+Fabric,2022,Consumer & Retail,,United States,Bellevue,,1500.0,,Unicorn,,True,Unicorn Dataset,fabric
+Zeta,2021,Financial Services,,United States,San Francisco,,1500.0,,Unicorn,,True,Unicorn Dataset,zeta
+Boba,2022,Enterprise Tech,,United States,San Francisco,,1500.0,,Unicorn,,True,Unicorn Dataset,boba
+Upside,2022,Consumer & Retail,,United States,DC,,1500.0,,Unicorn,,True,Unicorn Dataset,upside
+Mashgin,2022,Consumer & Retail,,United States,Palo Alto,,1500.0,,Unicorn,,True,Unicorn Dataset,mashgin
+Dock,2022,Financial Services,,Brazil,Sao Paulo,,1500.0,,Unicorn,,True,Unicorn Dataset,dock
+Prometheus,2021,Industrials,,United States,Santa Cruz,,1500.0,,Unicorn,,True,Unicorn Dataset,prometheus
+5ire,2022,Enterprise Tech,,United Kingdom,London,,1500.0,,Unicorn,,True,Unicorn Dataset,5ire
+Yipin Shengxian,2019,Consumer & Retail,,China,Hefei,,1490.0,,Unicorn,,True,Unicorn Dataset,yipin shengxian
+Bordrin Motors,2019,Industrials,,China,Shanghai,,1480.0,,Unicorn,,True,Unicorn Dataset,bordrin motors
+Arcadia,2022,Enterprise Tech,,United States,DC,,1480.0,,Unicorn,,True,Unicorn Dataset,arcadia
+VTS,2019,Financial Services,,United States,New York,,1470.0,,Unicorn,,True,Unicorn Dataset,vts
+Shukun Technology,2021,Healthcare & Life Sciences,,China,Beijing,,1460.0,,Unicorn,,True,Unicorn Dataset,shukun technology
+Huasun,2023,Industrials,,China,Xuancheng,,1460.0,,Unicorn,,True,Unicorn Dataset,huasun
+Loft,2020,Financial Services,,Brazil,Sao Paulo,,1460.0,,Unicorn,,True,Unicorn Dataset,loft
+Coocaa,2018,Media & Entertainment,,China,Shenzhen,,1450.0,,Unicorn,,True,Unicorn Dataset,coocaa
+Juma Peisong,2018,Industrials,,China,Chengdu,,1450.0,,Unicorn,,True,Unicorn Dataset,juma peisong
+Ouyeel,2019,Industrials,,China,Shanghai,,1450.0,,Unicorn,,True,Unicorn Dataset,ouyeel
+Gymshark,2020,Consumer & Retail,,United Kingdom,Solihull,,1450.0,,Unicorn,,True,Unicorn Dataset,gymshark
+M1,2021,Financial Services,,United States,Chicago,,1450.0,,Unicorn,,True,Unicorn Dataset,m1
+Aleo,2022,Enterprise Tech,,United States,San Francisco,,1450.0,,Unicorn,,True,Unicorn Dataset,aleo
+Einride,2021,Industrials,,Sweden,Stockholm,,1440.0,,Unicorn,,True,Unicorn Dataset,einride
+Justworks,2020,Enterprise Tech,,United States,New York,,1430.0,,Unicorn,,True,Unicorn Dataset,justworks
+Valgen Medtech,2021,Healthcare & Life Sciences,,China,Hangzhou,,1430.0,,Unicorn,,True,Unicorn Dataset,valgen medtech
+SonderMind,2021,Healthcare & Life Sciences,,United States,Denver,,1420.0,,Unicorn,,True,Unicorn Dataset,sondermind
+Fox Ess,2023,Industrials,,China,Wenzhou,,1400.0,,Unicorn,,True,Unicorn Dataset,fox ess
+Zepto,2023,Consumer & Retail,,India,Mumbai,,1400.0,,Unicorn,,True,Unicorn Dataset,zepto
+Amagi,2022,Media & Entertainment,,India,Bengaluru,,1400.0,,Unicorn,,True,Unicorn Dataset,amagi
+Liquid Death,2024,Consumer & Retail,,United States,Santa Monica,,1400.0,,Unicorn,,True,Unicorn Dataset,liquid death
+Papa,2021,Healthcare & Life Sciences,,United States,Miami,,1400.0,,Unicorn,,True,Unicorn Dataset,papa
+Xpressbees,2022,Consumer & Retail,,India,Pune,,1400.0,,Unicorn,,True,Unicorn Dataset,xpressbees
+Figment,2021,Financial Services,,Canada,Toronto,,1400.0,,Unicorn,,True,Unicorn Dataset,figment
+Envoy,2022,Enterprise Tech,,United States,San Francisco,,1400.0,,Unicorn,,True,Unicorn Dataset,envoy
+Deliverect,2022,Consumer & Retail,,Belgium,Ghent,,1400.0,,Unicorn,,True,Unicorn Dataset,deliverect
+SparkCognition,2022,Enterprise Tech,,United States,Austin,,1400.0,,Unicorn,,True,Unicorn Dataset,sparkcognition
+Liquidity,2023,Financial Services,,Israel,Tel Aviv,,1400.0,,Unicorn,,True,Unicorn Dataset,liquidity
+Firebolt,2022,Enterprise Tech,,Israel,Tel Aviv,,1400.0,,Unicorn,,True,Unicorn Dataset,firebolt
+AI21 Labs,2023,Enterprise Tech,,Israel,Tel Aviv,,1400.0,,Unicorn,,True,Unicorn Dataset,ai21 labs
+Koudai,2014,Consumer & Retail,,China,Beijing,,1400.0,,Unicorn,,True,Unicorn Dataset,koudai
+Symphony,2017,Financial Services,,United States,New York,,1400.0,,Unicorn,,True,Unicorn Dataset,symphony
+Yidian Zixun,2017,Media & Entertainment,,China,Beijing,,1400.0,,Unicorn,,True,Unicorn Dataset,yidian zixun
+Cabify,2018,Industrials,,Spain,Madrid,,1400.0,,Unicorn,,True,Unicorn Dataset,cabify
+Hive Box,2018,Consumer & Retail,,China,Shenzhen,,1400.0,,Unicorn,,True,Unicorn Dataset,hive box
+Away,2019,Consumer & Retail,,United States,New York,,1400.0,,Unicorn,,True,Unicorn Dataset,away
+Kong,2020,Enterprise Tech,,United States,San Francisco,,1400.0,,Unicorn,,True,Unicorn Dataset,kong
+Epidemic Sound,2021,Media & Entertainment,,Sweden,Stockholm,,1400.0,,Unicorn,,True,Unicorn Dataset,epidemic sound
+Yotpo,2021,Consumer & Retail,,United States,New York,,1400.0,,Unicorn,,True,Unicorn Dataset,yotpo
+Rebel Foods,2021,Consumer & Retail,,India,Pune,,1400.0,,Unicorn,,True,Unicorn Dataset,rebel foods
+Coda,2021,Enterprise Tech,,United States,Mountain View,,1400.0,,Unicorn,,True,Unicorn Dataset,coda
+Stash,2021,Financial Services,,United States,New York,,1400.0,,Unicorn,,True,Unicorn Dataset,stash
+Rad Power Bikes,2021,Industrials,,United States,Seattle,,1400.0,,Unicorn,,True,Unicorn Dataset,rad power bikes
+Clarify Health,2022,Healthcare & Life Sciences,,United States,San Francisco,,1400.0,,Unicorn,,True,Unicorn Dataset,clarify health
+Bucketplace,2022,Consumer & Retail,,South Korea,Seoul,,1400.0,,Unicorn,,True,Unicorn Dataset,bucketplace
+Paddle,2022,Enterprise Tech,,United Kingdom,London,,1400.0,,Unicorn,,True,Unicorn Dataset,paddle
+OneCard,2022,Financial Services,,India,Pune,,1400.0,,Unicorn,,True,Unicorn Dataset,onecard
+boAT,2022,Consumer & Retail,,India,Mumbai,,1400.0,,Unicorn,,True,Unicorn Dataset,boat
+Phenom People,2021,Enterprise Tech,,United States,Ambler,,1400.0,,Unicorn,,True,Unicorn Dataset,phenom people
+GupShup,2021,Enterprise Tech,,United States,San Francisco,,1400.0,,Unicorn,,True,Unicorn Dataset,gupshup
+Degreed,2021,Enterprise Tech,,United States,Pleasanton,,1400.0,,Unicorn,,True,Unicorn Dataset,degreed
+Scalable Capital,2021,Financial Services,,Germany,Munich,,1400.0,,Unicorn,,True,Unicorn Dataset,scalable capital
+VideoAmp,2021,Enterprise Tech,,United States,Los Angeles,,1400.0,,Unicorn,,True,Unicorn Dataset,videoamp
+Panther Labs,2021,Enterprise Tech,,United States,San Francisco,,1400.0,,Unicorn,,True,Unicorn Dataset,panther labs
+Salt Security,2022,Enterprise Tech,,United States,Palo Alto,,1400.0,,Unicorn,,True,Unicorn Dataset,salt security
+Tripledot,2022,Media & Entertainment,,United Kingdom,London,,1400.0,,Unicorn,,True,Unicorn Dataset,tripledot
+Nimble Rx,2022,Healthcare & Life Sciences,,United States,Redwood City,,1400.0,,Unicorn,,True,Unicorn Dataset,nimble rx
+Veepee,2007,Consumer & Retail,,France,La Plaine Saint-Denis,,1380.0,,Unicorn,,True,Unicorn Dataset,veepee
+Neon,2022,Financial Services,,Brazil,Sao Paulo,,1380.0,,Unicorn,,True,Unicorn Dataset,neon
+Movable Ink,2022,Enterprise Tech,,United States,New York,,1360.0,,Unicorn,,True,Unicorn Dataset,movable ink
+Patreon,2020,Media & Entertainment,,United States,San Francisco,,1350.0,,Unicorn,,True,Unicorn Dataset,patreon
+DeepBlue Technology,2018,Consumer & Retail,,China,Shanghai,,1350.0,,Unicorn,,True,Unicorn Dataset,deepblue technology
+Klook,2018,Consumer & Retail,,Hong Kong,Central,,1350.0,,Unicorn,,True,Unicorn Dataset,klook
+Epirus,2022,Industrials,,United States,Hawthorne,,1350.0,,Unicorn,,True,Unicorn Dataset,epirus
+Signifyd,2021,Consumer & Retail,,United States,San Jose,,1340.0,,Unicorn,,True,Unicorn Dataset,signifyd
+Jaguar Microsystems,2022,Industrials,,China,Shenzhen,,1340.0,,Unicorn,,True,Unicorn Dataset,jaguar microsystems
+Motorway,2021,Industrials,,United Kingdom,London,,1330.0,,Unicorn,,True,Unicorn Dataset,motorway
+RIDI,2022,Media & Entertainment,,South Korea,Seoul,,1330.0,,Unicorn,,True,Unicorn Dataset,ridi
+Lyten,2023,Industrials,,United States,San Jose,,1330.0,,Unicorn,,True,Unicorn Dataset,lyten
+Flipboard,2015,Media & Entertainment,,United States,Palo Alto,,1320.0,,Unicorn,,True,Unicorn Dataset,flipboard
+GPclub,2018,Consumer & Retail,,South Korea,Seoul,,1320.0,,Unicorn,,True,Unicorn Dataset,gpclub
+Tongdun Technology,2019,Enterprise Tech,,China,Hangzhou,,1320.0,,Unicorn,,True,Unicorn Dataset,tongdun technology
+Athletic Greens,2022,Healthcare & Life Sciences,,United States,New York,,1320.0,,Unicorn,,True,Unicorn Dataset,athletic greens
+Unisound,2018,Enterprise Tech,,China,Beijing,,1310.0,,Unicorn,,True,Unicorn Dataset,unisound
+Alzheon,2020,Healthcare & Life Sciences,,United States,Framingham,,1310.0,,Unicorn,,True,Unicorn Dataset,alzheon
+MasterControl,2022,Healthcare & Life Sciences,,United States,Salt Lake City,,1300.0,,Unicorn,,True,Unicorn Dataset,mastercontrol
+eFishery,2023,Industrials,,Indonesia,Bandung,,1300.0,,Unicorn,,True,Unicorn Dataset,efishery
+Zum,2024,Industrials,,United States,Redwood City,,1300.0,,Unicorn,,True,Unicorn Dataset,zum
+HeartFlow,2017,Healthcare & Life Sciences,,United States,Redwood City,,1300.0,,Unicorn,,True,Unicorn Dataset,heartflow
+Shiprocket,2022,Consumer & Retail,,India,New Delhi,,1230.0,,Unicorn,,True,Unicorn Dataset,shiprocket
+The Brandtech Group,2019,Enterprise Tech,,United States,New York,,1300.0,,Unicorn,,True,Unicorn Dataset,the brandtech group
+HashKeyHashKey,2024,Financial Services,,Hong Kong,Hong Kong,,1300.0,,Unicorn,,True,Unicorn Dataset,hashkeyhashkey
+Insightec,2020,Healthcare & Life Sciences,,Israel,Tirat Carmel,,1300.0,,Unicorn,,True,Unicorn Dataset,insightec
+Everly Health,2020,Healthcare & Life Sciences,,United States,Austin,,1300.0,,Unicorn,,True,Unicorn Dataset,everly health
+Manner,2020,Consumer & Retail,,China,Shanghai,,1300.0,,Unicorn,,True,Unicorn Dataset,manner
+TalkingData,2021,Enterprise Tech,,China,Beijing,,1300.0,,Unicorn,,True,Unicorn Dataset,talkingdata
+DistroKid,2021,Media & Entertainment,,United States,New York,,1300.0,,Unicorn,,True,Unicorn Dataset,distrokid
+Konfio,2021,Financial Services,,Mexico,Mexico City,,1300.0,,Unicorn,,True,Unicorn Dataset,konfio
+Betterment,2021,Financial Services,,United States,New York,,1300.0,,Unicorn,,True,Unicorn Dataset,betterment
+Flock Freight,2021,Industrials,,United States,Encinitas,,1300.0,,Unicorn,,True,Unicorn Dataset,flock freight
+YugaByte,2021,Enterprise Tech,,United States,Sunnyvale,,1300.0,,Unicorn,,True,Unicorn Dataset,yugabyte
+Lukka,2022,Financial Services,,United States,New York,,1300.0,,Unicorn,,True,Unicorn Dataset,lukka
+TravelPerk,2022,Enterprise Tech,,Spain,Barcelona,,1300.0,,Unicorn,,True,Unicorn Dataset,travelperk
+iTrustCapital,2022,Financial Services,,United States,Long Beach,,1300.0,,Unicorn,,True,Unicorn Dataset,itrustcapital
+Domestika,2022,Media & Entertainment,,United States,Berkeley,,1300.0,,Unicorn,,True,Unicorn Dataset,domestika
+CoinTracker,2022,Financial Services,,United States,San Francisco,,1300.0,,Unicorn,,True,Unicorn Dataset,cointracker
+Loadsmart,2022,Industrials,,United States,New York,,1300.0,,Unicorn,,True,Unicorn Dataset,loadsmart
+TUNGEE,2021,Enterprise Tech,,China,Guangzhou,,1300.0,,Unicorn,,True,Unicorn Dataset,tungee
+Yubi,2022,Financial Services,,India,Chennai,,1500.0,,Unicorn,,True,Unicorn Dataset,yubi
+LinkTree,2022,Media & Entertainment,,Australia,Melbourne,,1300.0,,Unicorn,,True,Unicorn Dataset,linktree
+Island,2022,Enterprise Tech,,United States,Dallas,,1500.0,,Unicorn,,True,Unicorn Dataset,island
+Clipboard Health,2022,Healthcare & Life Sciences,,United States,San Francisco,,1300.0,,Unicorn,,True,Unicorn Dataset,clipboard health
+Biofourmis,2022,Healthcare & Life Sciences,,United States,Boston,,1300.0,,Unicorn,,True,Unicorn Dataset,biofourmis
+STORD,2021,Industrials,,United States,Atlanta,,1300.0,,Unicorn,,True,Unicorn Dataset,stord
+Optibus,2022,Industrials,,Israel,Tel Aviv,,1300.0,,Unicorn,,True,Unicorn Dataset,optibus
+Keyfactor,2023,Enterprise Tech,,United States,Independence,,1300.0,,Unicorn,,True,Unicorn Dataset,keyfactor
+Equashield,2022,Healthcare & Life Sciences,,United States,Port Washington,,1300.0,,Unicorn,,True,Unicorn Dataset,equashield
+Intercom,2018,Enterprise Tech,,United States,San Francisco,,1280.0,,Unicorn,,True,Unicorn Dataset,intercom
+OVO Energy,2019,Industrials,,United Kingdom,Bristol,,1280.0,,Unicorn,,True,Unicorn Dataset,ovo energy
+Huisuanzhang,2021,Financial Services,,China,Beijing,,1280.0,,Unicorn,,True,Unicorn Dataset,huisuanzhang
+WTOIP,2018,Enterprise Tech,,China,Guangzhou,,1270.0,,Unicorn,,True,Unicorn Dataset,wtoip
+PeopleCert,2021,Enterprise Tech,,Greece,Athens,,1270.0,,Unicorn,,True,Unicorn Dataset,peoplecert
+Greater Bay Technology,2022,Industrials,,China,Guangzhou,,1260.0,,Unicorn,,True,Unicorn Dataset,greater bay technology
+JMGO,2022,Industrials,,China,Shenzhen,,1260.0,,Unicorn,,True,Unicorn Dataset,jmgo
+BigID,2020,Enterprise Tech,,United States,New York,,1250.0,,Unicorn,,True,Unicorn Dataset,bigid
+Polyhedra Network,2024,Enterprise Tech,,United States,San Francisco,,1250.0,,Unicorn,,True,Unicorn Dataset,polyhedra network
+Kuaikan Manhua,2017,Media & Entertainment,,China,Beijing,,1250.0,,Unicorn,,True,Unicorn Dataset,kuaikan manhua
+Marshmallow,2021,Insurance,,United Kingdom,London,,1250.0,,Unicorn,,True,Unicorn Dataset,marshmallow
+Honor Technology,2021,Healthcare & Life Sciences,,United States,San Francisco,,1250.0,,Unicorn,,True,Unicorn Dataset,honor technology
+Together AI,2024,Enterprise Tech,,United States,San Francisco,,1250.0,,Unicorn,,True,Unicorn Dataset,together ai
+QI Tech,2023,Financial Services,,Brazil,Sao Paulo,,1000.0,,Unicorn,,True,Unicorn Dataset,qi tech
+Mythical Games,2021,Media & Entertainment,,United States,Sherman Oaks,,1000.0,,Unicorn,,True,Unicorn Dataset,mythical games
+Incode Technologies,2021,Enterprise Tech,,United States,San Francisco,,1250.0,,Unicorn,,True,Unicorn Dataset,incode technologies
+Tackle.io,2021,Enterprise Tech,,United States,Boise,,1250.0,,Unicorn,,True,Unicorn Dataset,tackle.io
+Flipdish,2022,Consumer & Retail,,Ireland,Dublin,,1250.0,,Unicorn,,True,Unicorn Dataset,flipdish
+CaptivateIQ,2022,Enterprise Tech,,United States,San Francisco,,1250.0,,Unicorn,,True,Unicorn Dataset,captivateiq
+Talos,2022,Financial Services,,United States,New York,,1250.0,,Unicorn,,True,Unicorn Dataset,talos
+airSlate,2022,Enterprise Tech,,United States,Brookline,,1250.0,,Unicorn,,True,Unicorn Dataset,airslate
+ClassDojo,2022,Consumer & Retail,,United States,San Francisco,,1250.0,,Unicorn,,True,Unicorn Dataset,classdojo
+BrewDog,2017,Consumer & Retail,,United Kingdom,Aberdeen,,1240.0,,Unicorn,,True,Unicorn Dataset,brewdog
+Enflame,2021,Enterprise Tech,,China,Shanghai,,1240.0,,Unicorn,,True,Unicorn Dataset,enflame
+Shulan Health,2021,Healthcare & Life Sciences,,China,Hangzhou,,1240.0,,Unicorn,,True,Unicorn Dataset,shulan health
+SeatGeek,2022,Media & Entertainment,,United States,New York,,1240.0,,Unicorn,,True,Unicorn Dataset,seatgeek
+Nexii,2021,Industrials,,Canada,Vancouver,,1230.0,,Unicorn,,True,Unicorn Dataset,nexii
+InDrive,2021,Industrials,,United States,Mountain View,,1230.0,,Unicorn,,True,Unicorn Dataset,indrive
+Spiber,2021,Industrials,,Japan,Tsuruoka,,1220.0,,Unicorn,,True,Unicorn Dataset,spiber
+Insider,2022,Enterprise Tech,,Turkey,Istanbul,,2000.0,,Unicorn,,True,Unicorn Dataset,insider
+Kallyope,2022,Healthcare & Life Sciences,,United States,New York,,1220.0,,Unicorn,,True,Unicorn Dataset,kallyope
+Zip,2022,Enterprise Tech,,United States,San Francisco,,1500.0,,Unicorn,,True,Unicorn Dataset,zip
+Cart.com,2023,Consumer & Retail,,United States,Austin,,1200.0,,Unicorn,,True,Unicorn Dataset,cart.com
+Replit,2023,Enterprise Tech,,United States,San Francisco,,1050.0,,Unicorn,,True,Unicorn Dataset,replit
+Mews,2024,Enterprise Tech,,Netherlands,Amsterdam,,1200.0,,Unicorn,,True,Unicorn Dataset,mews
+Our Next Energy,2023,Industrials,,United States,Novi,,1200.0,,Unicorn,,True,Unicorn Dataset,our next energy
+Lightmatter,2023,Enterprise Tech,,United States,Mountain View,,1200.0,,Unicorn,,True,Unicorn Dataset,lightmatter
+Castore,2023,Consumer & Retail,,United Kingdom,Manchester,,1200.0,,Unicorn,,True,Unicorn Dataset,castore
+Yiguo,2016,Consumer & Retail,,China,Shanghai,,1200.0,,Unicorn,,True,Unicorn Dataset,yiguo
+Glossier,2019,Consumer & Retail,,United States,New York,,1650.0,,Unicorn,,True,Unicorn Dataset,glossier
+Workhuman,2020,Enterprise Tech,,Ireland,Dublin,,1200.0,,Unicorn,,True,Unicorn Dataset,workhuman
+Qumulo,2020,Enterprise Tech,,United States,Seattle,,1200.0,,Unicorn,,True,Unicorn Dataset,qumulo
+Tealium,2021,Enterprise Tech,,United States,San Diego,,1200.0,,Unicorn,,True,Unicorn Dataset,tealium
+Public,2021,Financial Services,,United States,New York,,1200.0,,Unicorn,,True,Unicorn Dataset,public
+Pipa Coding,2021,Consumer & Retail,,China,Beijing,,1200.0,,Unicorn,,True,Unicorn Dataset,pipa coding
+Pilot,2021,Financial Services,,United States,San Francisco,,1200.0,,Unicorn,,True,Unicorn Dataset,pilot
+Aibee,2021,Enterprise Tech,,China,Beijing,,1200.0,,Unicorn,,True,Unicorn Dataset,aibee
+Vectra Networks,2021,Enterprise Tech,,United States,San Jose,,1200.0,,Unicorn,,True,Unicorn Dataset,vectra networks
+Ada,2021,Enterprise Tech,,Canada,Toronto,,1200.0,,Unicorn,,True,Unicorn Dataset,ada
+SmartMore,2021,Industrials,,China,Shenzhen,,1200.0,,Unicorn,,True,Unicorn Dataset,smartmore
+Rohlik Group,2021,Consumer & Retail,,Czech Republic,Prague,,1200.0,,Unicorn,,True,Unicorn Dataset,rohlik group
+FloQast,2021,Financial Services,,United States,Los Angeles,,1200.0,,Unicorn,,True,Unicorn Dataset,floqast
+MindTickle,2021,Enterprise Tech,,United States,San Francisco,,1200.0,,Unicorn,,True,Unicorn Dataset,mindtickle
+Offchain Labs,2021,Enterprise Tech,,United States,Princeton,,1200.0,,Unicorn,,True,Unicorn Dataset,offchain labs
+Copado,2021,Enterprise Tech,,United States,Chicago,,1200.0,,Unicorn,,True,Unicorn Dataset,copado
+Gem,2021,Enterprise Tech,,United States,San Francisco,,1200.0,,Unicorn,,True,Unicorn Dataset,gem
+CarDekho,2021,Industrials,,India,Jaipur,,1200.0,,Unicorn,,True,Unicorn Dataset,cardekho
+The Good Glamm Group,2021,Consumer & Retail,,India,Mumbai,,1200.0,,Unicorn,,True,Unicorn Dataset,the good glamm group
+AgentSync,2021,Insurance,,United States,Denver,,1200.0,,Unicorn,,True,Unicorn Dataset,agentsync
+Pristyn Care,2021,Healthcare & Life Sciences,,India,Gurugram,,1400.0,,Unicorn,,True,Unicorn Dataset,pristyn care
+Merama,2021,Consumer & Retail,,Mexico,Mexico City,,1200.0,,Unicorn,,True,Unicorn Dataset,merama
+SeekOut,2022,Enterprise Tech,,United States,Bellevue,,1200.0,,Unicorn,,True,Unicorn Dataset,seekout
+BigPanda,2022,Enterprise Tech,,United States,Mountain View,,1200.0,,Unicorn,,True,Unicorn Dataset,bigpanda
+Phantom,2022,Financial Services,,United States,San Francisco,,1200.0,,Unicorn,,True,Unicorn Dataset,phantom
+LivSpace,2022,Consumer & Retail,,India,Bengaluru,,1200.0,,Unicorn,,True,Unicorn Dataset,livspace
+Nova Labs,2022,Enterprise Tech,,United States,San Francisco,,1200.0,,Unicorn,,True,Unicorn Dataset,nova labs
+Choco,2022,Consumer & Retail,,Germany,Berlin,,1200.0,,Unicorn,,True,Unicorn Dataset,choco
+Viz.ai,2022,Healthcare & Life Sciences,,United States,San Francisco,,1200.0,,Unicorn,,True,Unicorn Dataset,viz.ai
+Unit,2022,Financial Services,,United States,New York,,1200.0,,Unicorn,,True,Unicorn Dataset,unit
+stori,2022,Financial Services,,Mexico,Juarez,,1200.0,,Unicorn,,True,Unicorn Dataset,stori
+Spectrum Medical,2022,Healthcare & Life Sciences,,United Kingdom,Gloucester,,1200.0,,Unicorn,,True,Unicorn Dataset,spectrum medical
+Swiftly,2022,Consumer & Retail,,United States,Seattle,,1200.0,,Unicorn,,True,Unicorn Dataset,swiftly
+CloudBees,2021,Enterprise Tech,,United States,San Jose,,1150.0,,Unicorn,,True,Unicorn Dataset,cloudbees
+Flink,2021,Consumer & Retail,,Germany,Berlin,,1070.0,,Unicorn,,True,Unicorn Dataset,flink
+Colossal,2023,Healthcare & Life Sciences,,United States,Austin,,1190.0,,Unicorn,,True,Unicorn Dataset,colossal
+L&P Cosmetic,2016,Consumer & Retail,,South Korea,Seoul,,1190.0,,Unicorn,,True,Unicorn Dataset,l&p cosmetic
+Mininglamp Technology,2019,Enterprise Tech,,China,Beijing,,1190.0,,Unicorn,,True,Unicorn Dataset,mininglamp technology
+Vestiaire Collective,2021,Consumer & Retail,,France,Paris,,1180.0,,Unicorn,,True,Unicorn Dataset,vestiaire collective
+Luoji Siwei,2017,Media & Entertainment,,China,Beijing,,1180.0,,Unicorn,,True,Unicorn Dataset,luoji siwei
+Yimidida,2019,Industrials,,China,Shanghai,,1170.0,,Unicorn,,True,Unicorn Dataset,yimidida
+Modern Health,2021,Healthcare & Life Sciences,,United States,San Francisco,,1170.0,,Unicorn,,True,Unicorn Dataset,modern health
+IRL,2021,Media & Entertainment,,United States,San Francisco,,1170.0,,Unicorn,,True,Unicorn Dataset,irl
+Younited,2022,Financial Services,,France,Paris,,1160.0,,Unicorn,,True,Unicorn Dataset,younited
+Uzum,2024,Financial Services,,Uzbekistan,Tashkent,,1160.0,,Unicorn,,True,Unicorn Dataset,uzum
+SOURCE Global,2022,Industrials,,United States,Scottsdale,,1160.0,,Unicorn,,True,Unicorn Dataset,source global
+LifeMiles,2015,Consumer & Retail,,Colombia,Bogota,,1150.0,,Unicorn,,True,Unicorn Dataset,lifemiles
+Venafi,2020,Enterprise Tech,,United States,Salt Lake City,,1150.0,,Unicorn,,True,Unicorn Dataset,venafi
+Guideline,2021,Financial Services,,United States,San Mateo,,1150.0,,Unicorn,,True,Unicorn Dataset,guideline
+Rebellion Defense,2021,Industrials,,United States,Washington DC,,1150.0,,Unicorn,,True,Unicorn Dataset,rebellion defense
+Elemy,2021,Healthcare & Life Sciences,,United States,San Francisco,,1150.0,,Unicorn,,True,Unicorn Dataset,elemy
+TELD,2019,Industrials,,China,Qingdao,,1120.0,,Unicorn,,True,Unicorn Dataset,teld
+Enable,2023,Enterprise Tech,,United States,San Francisco,,1120.0,,Unicorn,,True,Unicorn Dataset,enable
+DANA,2022,Financial Services,,Indonesia,Jakarta,,1130.0,,Unicorn,,True,Unicorn Dataset,dana
+At-Bay,2021,Insurance,,United States,Mountain View,,1120.0,,Unicorn,,True,Unicorn Dataset,at-bay
+Visby Medical,2022,Healthcare & Life Sciences,,United States,San Jose,,1120.0,,Unicorn,,True,Unicorn Dataset,visby medical
+Invoca,2022,Enterprise Tech,,United States,Santa Barbara,,1100.0,,Unicorn,,True,Unicorn Dataset,invoca
+ElevenLabs,2024,Enterprise Tech,,United States,New York,,1100.0,,Unicorn,,True,Unicorn Dataset,elevenlabs
+Wasabi,2022,Enterprise Tech,,United States,Boston,,1100.0,,Unicorn,,True,Unicorn Dataset,wasabi
+Halan,2023,Financial Services,,Egypt,Cairo,,1000.0,,Unicorn,,True,Unicorn Dataset,halan
+BioCatch,2023,Enterprise Tech,,Israel,Tel Aviv,,1000.0,,Unicorn,,True,Unicorn Dataset,biocatch
+Baichuan AI,2023,Enterprise Tech,,China,Beijing,,1000.0,,Unicorn,,True,Unicorn Dataset,baichuan ai
+Rokid,2023,Media & Entertainment,,United States,Redwood City,,1000.0,,Unicorn,,True,Unicorn Dataset,rokid
+Krutrim,2024,Enterprise Tech,,India,Bengaluru,,1000.0,,Unicorn,,True,Unicorn Dataset,krutrim
+Headway,2023,Healthcare & Life Sciences,,United States,Orlando,,1000.0,,Unicorn,,True,Unicorn Dataset,headway
+Flexe,2022,Industrials,,United States,Seattle,,1000.0,,Unicorn,,True,Unicorn Dataset,flexe
+TangoMe,2014,Media & Entertainment,,United States,Mountain View,,1100.0,,Unicorn,,True,Unicorn Dataset,tangome
+AppDirect,2015,Enterprise Tech,,United States,San Francisco,,1100.0,,Unicorn,,True,Unicorn Dataset,appdirect
+Juanpi,2016,Consumer & Retail,,China,Wuhan,,1100.0,,Unicorn,,True,Unicorn Dataset,juanpi
+OVH,2016,Enterprise Tech,,France,Roubaix,,1100.0,,Unicorn,,True,Unicorn Dataset,ovh
+GetYourGuide,2019,Consumer & Retail,,Germany,Berlin,,2000.0,,Unicorn,,True,Unicorn Dataset,getyourguide
+Ivalua,2019,Enterprise Tech,,United States,Redwood City,,1100.0,,Unicorn,,True,Unicorn Dataset,ivalua
+Sisense,2020,Enterprise Tech,,United States,New York,,1100.0,,Unicorn,,True,Unicorn Dataset,sisense
+Pharmapacks,2020,Consumer & Retail,,United States,Islandia,,1100.0,,Unicorn,,True,Unicorn Dataset,pharmapacks
+Sennder,2021,Industrials,,Germany,Berlin,,1100.0,,Unicorn,,True,Unicorn Dataset,sennder
+Nexthink,2021,Enterprise Tech,,Switzerland,Prilly,,1100.0,,Unicorn,,True,Unicorn Dataset,nexthink
+Zego,2021,Insurance,,United Kingdom,London,,1100.0,,Unicorn,,True,Unicorn Dataset,zego
+Rightway,2021,Healthcare & Life Sciences,,United States,New York,,1100.0,,Unicorn,,True,Unicorn Dataset,rightway
+Sunbit,2021,Financial Services,,United States,Los Angeles,,1100.0,,Unicorn,,True,Unicorn Dataset,sunbit
+Qingting FM,2021,Media & Entertainment,,China,Shanghai,,1100.0,,Unicorn,,True,Unicorn Dataset,qingting fm
+G2,2021,Enterprise Tech,,United States,Chicago,,1100.0,,Unicorn,,True,Unicorn Dataset,g2
+Hailo,2021,Enterprise Tech,,Israel,Tel Aviv,,1000.0,,Unicorn,,True,Unicorn Dataset,hailo
+Caribou,2022,Insurance,,United States,Denver,,1100.0,,Unicorn,,True,Unicorn Dataset,caribou
+Nowports,2022,Industrials,,Mexico,Monterrey,,1100.0,,Unicorn,,True,Unicorn Dataset,nowports
+People.ai,2021,Enterprise Tech,,United States,San Francisco,,1100.0,,Unicorn,,True,Unicorn Dataset,people.ai
+Carousell,2021,Consumer & Retail,,Singapore,Singapore City,,1100.0,,Unicorn,,True,Unicorn Dataset,carousell
+apna,2021,Enterprise Tech,,India,Bengaluru,,1100.0,,Unicorn,,True,Unicorn Dataset,apna
+Karat,2021,Enterprise Tech,,United States,Seattle,,1100.0,,Unicorn,,True,Unicorn Dataset,karat
+Enpal,2021,Industrials,,Germany,Berlin,,1100.0,,Unicorn,,True,Unicorn Dataset,enpal
+Acko General Insurance,2021,Insurance,,India,Bengaluru,,1100.0,,Unicorn,,True,Unicorn Dataset,acko general insurance
+Daily Harvest,2021,Consumer & Retail,,United States,New York,,1100.0,,Unicorn,,True,Unicorn Dataset,daily harvest
+The Bank of London,2021,Financial Services,,United Kingdom,London,,1100.0,,Unicorn,,True,Unicorn Dataset,the bank of london
+Fundbox,2021,Financial Services,,United States,San Francisco,,1100.0,,Unicorn,,True,Unicorn Dataset,fundbox
+Turing,2021,Enterprise Tech,,United States,Palo Alto,,1100.0,,Unicorn,,True,Unicorn Dataset,turing
+GlobalBees,2021,Consumer & Retail,,India,New Delhi,,1100.0,,Unicorn,,True,Unicorn Dataset,globalbees
+LEAD,2022,Consumer & Retail,,India,Andheri,,1100.0,,Unicorn,,True,Unicorn Dataset,lead
+eSentire,2022,Enterprise Tech,,Canada,Waterloo,,1100.0,,Unicorn,,True,Unicorn Dataset,esentire
+Beyond Identity,2022,Enterprise Tech,,United States,New York,,1100.0,,Unicorn,,True,Unicorn Dataset,beyond identity
+Staffbase,2022,Enterprise Tech,,Germany,Chemnitz,,1100.0,,Unicorn,,True,Unicorn Dataset,staffbase
+Chief,2022,Consumer & Retail,,United States,New York,,1100.0,,Unicorn,,True,Unicorn Dataset,chief
+IntelyCare,2022,Healthcare & Life Sciences,,United States,Quincy,,1100.0,,Unicorn,,True,Unicorn Dataset,intelycare
+Teleport,2022,Enterprise Tech,,United States,Oakland,,1100.0,,Unicorn,,True,Unicorn Dataset,teleport
+Imply Data,2022,Enterprise Tech,,United States,Burlingame,,1100.0,,Unicorn,,True,Unicorn Dataset,imply data
+Material Security,2022,Enterprise Tech,,United States,Redwood City,,1100.0,,Unicorn,,True,Unicorn Dataset,material security
+PhysicsWallah,2022,Consumer & Retail,,India,Uttar Pradesh,,1100.0,,Unicorn,,True,Unicorn Dataset,physicswallah
+Recover,2022,Industrials,,Spain,Banyeres de Mariola,,1100.0,,Unicorn,,True,Unicorn Dataset,recover
+Purplle,2022,Consumer & Retail,,India,Mumbai,,1100.0,,Unicorn,,True,Unicorn Dataset,purplle
+CAIS,2022,Financial Services,,United States,New York,,1100.0,,Unicorn,,True,Unicorn Dataset,cais
+Nxin,2018,Industrials,,China,Beijing,,1080.0,,Unicorn,,True,Unicorn Dataset,nxin
+UISEE Technology,2021,Industrials,,China,Beijing,,1080.0,,Unicorn,,True,Unicorn Dataset,uisee technology
+56PINGTAI,2021,Industrials,,China,Shanghai,,1080.0,,Unicorn,,True,Unicorn Dataset,56pingtai
+Cirkul,2022,Consumer & Retail,,United States,Sarasota,,1070.0,,Unicorn,,True,Unicorn Dataset,cirkul
+Radius Payment Solutions,2017,Industrials,,United Kingdom,Crewe,,1070.0,,Unicorn,,True,Unicorn Dataset,radius payment solutions
+InCred,2023,Financial Services,,India,Mumbai,,1050.0,,Unicorn,,True,Unicorn Dataset,incred
+0x,2022,Financial Services,,United States,San Francisco,,1050.0,,Unicorn,,True,Unicorn Dataset,0x
+Jiuxian,2015,Consumer & Retail,,China,Beijing,,1050.0,,Unicorn,,True,Unicorn Dataset,jiuxian
+Instabase,2019,Enterprise Tech,,United States,San Francisco,,2000.0,,Unicorn,,True,Unicorn Dataset,instabase
+Sendbird,2021,Enterprise Tech,,United States,San Mateo,,1050.0,,Unicorn,,True,Unicorn Dataset,sendbird
+Density,2021,Enterprise Tech,,United States,San Francisco,,1050.0,,Unicorn,,True,Unicorn Dataset,density
+Mixpanel,2021,Enterprise Tech,,United States,San Francisco,,1050.0,,Unicorn,,True,Unicorn Dataset,mixpanel
+Branch,2022,Insurance,,United States,Columbus,,1050.0,,Unicorn,,True,Unicorn Dataset,branch
+OrCam Technologies,2018,Healthcare & Life Sciences,,Israel,Jerusalem,,1030.0,,Unicorn,,True,Unicorn Dataset,orcam technologies
+B&C Chemical,2023,Industrials,,China,Pizhou,,1020.0,,Unicorn,,True,Unicorn Dataset,b&c chemical
+Ample,2021,Industrials,,United States,San Francisco,,1020.0,,Unicorn,,True,Unicorn Dataset,ample
+BlackBuck,2021,Industrials,,India,Bengaluru,,1020.0,,Unicorn,,True,Unicorn Dataset,blackbuck
+Wheel,2022,Healthcare & Life Sciences,,United States,Austin,,1010.0,,Unicorn,,True,Unicorn Dataset,wheel
+Vestwell,2023,Financial Services,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,vestwell
+Minute Media,2024,Media & Entertainment,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,minute media
+Perfios,2024,Financial Services,,India,Mumbai,,1000.0,,Unicorn,,True,Unicorn Dataset,perfios
+Tamara,2023,Financial Services,,Saudi Arabia,Riyadh,,1000.0,,Unicorn,,True,Unicorn Dataset,tamara
+Xreal,2024,Media & Entertainment,,China,Beijing,,1000.0,,Unicorn,,True,Unicorn Dataset,xreal
+Silverfort,2024,Enterprise Tech,,Israel,Tel Aviv,,1000.0,,Unicorn,,True,Unicorn Dataset,silverfort
+IntraBio,2024,Healthcare & Life Sciences,,United Kingdom,Oxfordshire,,1000.0,,Unicorn,,True,Unicorn Dataset,intrabio
+Andalusia Labs,2023,Enterprise Tech,,United Arab Emirates,Abu Dhabi,,1000.0,,Unicorn,,True,Unicorn Dataset,andalusia labs
+EmployerDirect Healthcare,2023,Healthcare & Life Sciences,,United States,Dallas,,1000.0,,Unicorn,,True,Unicorn Dataset,employerdirect healthcare
+Electric Hydrogen,2023,Industrials,,United States,Natick,,1000.0,,Unicorn,,True,Unicorn Dataset,electric hydrogen
+TechMet,2023,Industrials,,Ireland,Dublin,,1000.0,,Unicorn,,True,Unicorn Dataset,techmet
+MaintainX,2023,Enterprise Tech,,United States,San Fransisco,,1000.0,,Unicorn,,True,Unicorn Dataset,maintainx
+01.AI,2023,Enterprise Tech,,China,Beijing,,1000.0,,Unicorn,,True,Unicorn Dataset,01.ai
+MindMaze,2022,Health,,Switzerland,Lausanne,,1000.0,,Unicorn,,True,Unicorn Dataset,mindmaze
+Avenue One,2023,Financial Services,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,avenue one
+DataSnipper,2024,Enterprise Tech,,Netherlands,Amsterdam,,1000.0,,Unicorn,,True,Unicorn Dataset,datasnipper
+Zhipu AI,2023,Enterprise Tech,,China,Beijing ,,1000.0,,Unicorn,,True,Unicorn Dataset,zhipu ai
+Flashbots,2023,Enterprise Tech,,Cayman Islands,Grand Cayman,,1000.0,,Unicorn,,True,Unicorn Dataset,flashbots
+Typeface,2023,Enterprise Tech,,United States,Los Altos,,1000.0,,Unicorn,,True,Unicorn Dataset,typeface
+Imbue,2023,Enterprise Tech,,United States,San Francisco,,1000.0,,Unicorn,,True,Unicorn Dataset,imbue
+Restaurant365,2023,Consumer & Retail,,United States,Irvine,,1000.0,,Unicorn,,True,Unicorn Dataset,restaurant365
+Kin,2023,Insurance,,United States,Chicago,,1000.0,,Unicorn,,True,Unicorn Dataset,kin
+DeepL,2023,Enterprise Tech,,Germany,Cologne,,1000.0,,Unicorn,,True,Unicorn Dataset,deepl
+KoBold Metals,2023,Industrials,,United States,Berkeley,,1000.0,,Unicorn,,True,Unicorn Dataset,kobold metals
+Go,2023,Industrials,,Japan,Tokyo,,1000.0,,Unicorn,,True,Unicorn Dataset,go
+Percent,2018,Enterprise Tech,,China,Beijing,,1000.0,,Unicorn,,True,Unicorn Dataset,percent
+1Komma5,2023,Industrials,,Germany,Hamburg,,1080.0,,Unicorn,,True,Unicorn Dataset,1komma5
+Gradiant,2023,Industrials,,United States,Woburn,,1000.0,,Unicorn,,True,Unicorn Dataset,gradiant
+Palmetto,2022,Industrials,,United States,Charleston,,1000.0,,Unicorn,,True,Unicorn Dataset,palmetto
+Synthesia,2023,Enterprise Tech,,United Kingdom,London,,1000.0,,Unicorn,,True,Unicorn Dataset,synthesia
+Prove Identity,2020,Enterprise Tech,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,prove identity
+Character.AI,2023,Media & Entertainment,,United States,Menlo Park,,1000.0,,Unicorn,,True,Unicorn Dataset,character.ai
+Atmosphere,2023,Media & Entertainment,,United States,Austin,,1000.0,,Unicorn,,True,Unicorn Dataset,atmosphere
+Adept,2023,Enterprise Tech,,United States,San Francisco,,1000.0,,Unicorn,,True,Unicorn Dataset,adept
+Beamery,2022,Enterprise Tech,,United Kingdom,London,,1000.0,,Unicorn,,True,Unicorn Dataset,beamery
+Flow,2022,Financial Services,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,flow
+Xanadu,2022,Enterprise Tech,,Canada,Toronto,,1000.0,,Unicorn,,True,Unicorn Dataset,xanadu
+LINE MAN Wongnai,2022,Consumer & Retail,,Thailand,Bangkok,,1000.0,,Unicorn,,True,Unicorn Dataset,line man wongnai
+Celestia,2022,Enterprise Tech,,Liechtenstein,Vaduz,,1000.0,,Unicorn,,True,Unicorn Dataset,celestia
+Stability AI,2022,Enterprise Tech,,United Kingdom,London,,1000.0,,Unicorn,,True,Unicorn Dataset,stability ai
+Satispay,2022,Financial Services,,Italy,Milan,,1000.0,,Unicorn,,True,Unicorn Dataset,satispay
+Paystand,2022,Financial Services,,United States,Scotts Valley,,1000.0,,Unicorn,,True,Unicorn Dataset,paystand
+Turntide Technologies,2022,Industrials,,United States,Sunnyvale,,1000.0,,Unicorn,,True,Unicorn Dataset,turntide technologies
+EcoVadis,2022,Enterprise Tech,,France,Paris,,1000.0,,Unicorn,,True,Unicorn Dataset,ecovadis
+TransferMate,2022,Financial Services,,Ireland,Kilkenny,,1000.0,,Unicorn,,True,Unicorn Dataset,transfermate
+Lookout,2013,Enterprise Tech,,United States,San Francisco,,1000.0,,Unicorn,,True,Unicorn Dataset,lookout
+Snapdeal,2014,Consumer & Retail,,India,New Delhi,,1000.0,,Unicorn,,True,Unicorn Dataset,snapdeal
+TechStyle Fashion Group,2014,Consumer & Retail,,United States,El Segundo,,1000.0,,Unicorn,,True,Unicorn Dataset,techstyle fashion group
+Zebec,2022,Financial Services,,United States,San Francisco,,1000.0,,Unicorn,,True,Unicorn Dataset,zebec
+InMobi,2014,Enterprise Tech,,India,Bengaluru,,1000.0,,Unicorn,,True,Unicorn Dataset,inmobi
+LinkSure Network,2015,Industrials,,China,Shanghai,,1000.0,,Unicorn,,True,Unicorn Dataset,linksure network
+Red Ventures,2015,Media & Entertainment,,United States,Fort Mill,,1000.0,,Unicorn,,True,Unicorn Dataset,red ventures
+BeiBei,2015,Consumer & Retail,,China,Hangzhou,,1000.0,,Unicorn,,True,Unicorn Dataset,beibei
+Lamabang,2015,Consumer & Retail,,China,Shenzhen,,1000.0,,Unicorn,,True,Unicorn Dataset,lamabang
+Jimu,2015,Financial Services,,China,Beijing,,1000.0,,Unicorn,,True,Unicorn Dataset,jimu
+ShareCRM,2015,Enterprise Tech,,China,Beijing,,1000.0,,Unicorn,,True,Unicorn Dataset,sharecrm
+Mia.com,2015,Consumer & Retail,,China,Beijing,,1000.0,,Unicorn,,True,Unicorn Dataset,mia.com
+58 Daojia,2015,Consumer & Retail,,China,Beijing,,1000.0,,Unicorn,,True,Unicorn Dataset,58 daojia
+Womai,2015,Consumer & Retail,,China,Beijing,,1000.0,,Unicorn,,True,Unicorn Dataset,womai
+HuJiang,2015,Consumer & Retail,,China,Shanghai,,1000.0,,Unicorn,,True,Unicorn Dataset,hujiang
+iTutorGroup,2015,Consumer & Retail,,China,Shanghai,,1000.0,,Unicorn,,True,Unicorn Dataset,itutorgroup
+iCarbonX,2016,Healthcare & Life Sciences,,China,Shenzhen,,1000.0,,Unicorn,,True,Unicorn Dataset,icarbonx
+Kendra Scott,2016,Consumer & Retail,,United States,Austin,,1000.0,,Unicorn,,True,Unicorn Dataset,kendra scott
+Mobvoi,2017,Consumer & Retail,,China,Beijing,,1000.0,,Unicorn,,True,Unicorn Dataset,mobvoi
+Zhuan Zhuan,2017,Consumer & Retail,,China,Beijing,,1000.0,,Unicorn,,True,Unicorn Dataset,zhuan zhuan
+Modernizing Medicine,2017,Healthcare & Life Sciences,,United States,Boca Raton,,1000.0,,Unicorn,,True,Unicorn Dataset,modernizing medicine
+DianRong,2017,Financial Services,,China,Shanghai,,1000.0,,Unicorn,,True,Unicorn Dataset,dianrong
+YH Global,2017,Industrials,,China,Shenzhen,,1000.0,,Unicorn,,True,Unicorn Dataset,yh global
+Revolution Precrafted,2017,Industrials,,Philippines,Manila,,1000.0,,Unicorn,,True,Unicorn Dataset,revolution precrafted
+WeLab,2017,Financial Services,,Hong Kong,Hong Kong,,1000.0,,Unicorn,,True,Unicorn Dataset,welab
+Maimai,2017,Media & Entertainment,,China,Beijing,,1000.0,,Unicorn,,True,Unicorn Dataset,maimai
+Dxy.cn,2018,Healthcare & Life Sciences,,China,Hangzhou,,1000.0,,Unicorn,,True,Unicorn Dataset,dxy.cn
+HMD Global,2018,Industrials,,Finland,Espoo,,1000.0,,Unicorn,,True,Unicorn Dataset,hmd global
+Huike Group,2018,Enterprise Tech,,China,Beijing,,1000.0,,Unicorn,,True,Unicorn Dataset,huike group
+ChinaC.com,2018,Enterprise Tech,,China,Wuxi,,1000.0,,Unicorn,,True,Unicorn Dataset,chinac.com
+LinkDoc Technology,2018,Healthcare & Life Sciences,,China,Beijing,,1000.0,,Unicorn,,True,Unicorn Dataset,linkdoc technology
+Movile,2018,Consumer & Retail,,Brazil,Sao Paulo,,1000.0,,Unicorn,,True,Unicorn Dataset,movile
+Pat McGrath Labs,2018,Consumer & Retail,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,pat mcgrath labs
+Wacai,2018,Financial Services,,China,Hangzhou,,1000.0,,Unicorn,,True,Unicorn Dataset,wacai
+FlashEx,2018,Industrials,,China,Beijing,,1000.0,,Unicorn,,True,Unicorn Dataset,flashex
+Banma Network Technologies,2018,Industrials,,China,Shanghai,,1000.0,,Unicorn,,True,Unicorn Dataset,banma network technologies
+Tresata,2018,Financial Services,,United States,Charlotte,,1000.0,,Unicorn,,True,Unicorn Dataset,tresata
+Momenta,2018,Industrials,,China,Beijing,,1000.0,,Unicorn,,True,Unicorn Dataset,momenta
+Hosjoy,2018,Consumer & Retail,,China,Nanjing,,1000.0,,Unicorn,,True,Unicorn Dataset,hosjoy
+Omio,2018,Consumer & Retail,,Germany,Berlin,,1000.0,,Unicorn,,True,Unicorn Dataset,omio
+TERMINUS Technology,2018,Industrials,,China,Beijing,,1000.0,,Unicorn,,True,Unicorn Dataset,terminus technology
+BitFury,2018,Enterprise Tech,,Netherlands,Amsterdam,,1000.0,,Unicorn,,True,Unicorn Dataset,bitfury
+REEF Technology,2018,Industrials,,United States,Miami,,1000.0,,Unicorn,,True,Unicorn Dataset,reef technology
+Globality,2019,Enterprise Tech,,United States,Menlo Park,,1000.0,,Unicorn,,True,Unicorn Dataset,globality
+Ynsect,2019,Industrials,,France,Evry,,1000.0,,Unicorn,,True,Unicorn Dataset,ynsect
+Poizon,2019,Consumer & Retail,,China,Shanghai,,1000.0,,Unicorn,,True,Unicorn Dataset,poizon
+SITECH DEV,2019,Industrials,,China,Guiyang,,1000.0,,Unicorn,,True,Unicorn Dataset,sitech dev
+KnowBox,2019,Consumer & Retail,,China,Beijing,,1000.0,,Unicorn,,True,Unicorn Dataset,knowbox
+Yanolja,2019,Consumer & Retail,,South Korea,Seoul,,1000.0,,Unicorn,,True,Unicorn Dataset,yanolja
+Meero,2019,Media & Entertainment,,France,Paris,,1000.0,,Unicorn,,True,Unicorn Dataset,meero
+Ibotta,2019,Consumer & Retail,,United States,Denver,,1000.0,,Unicorn,,True,Unicorn Dataset,ibotta
+C2FO,2019,Financial Services,,United States,Leawood,,1000.0,,Unicorn,,True,Unicorn Dataset,c2fo
+Numbrs,2019,Financial Services,,Switzerland,Zurich,,1000.0,,Unicorn,,True,Unicorn Dataset,numbrs
+EBANX,2019,Financial Services,,Brazil,Curitiba,,1000.0,,Unicorn,,True,Unicorn Dataset,ebanx
+KK Group,2019,Consumer & Retail,,China,Dongguan,,3000.0,,Unicorn,,True,Unicorn Dataset,kk group
+Hotmart,2020,Consumer & Retail,,Netherlands,Amsterdam,,1000.0,,Unicorn,,True,Unicorn Dataset,hotmart
+Dubizzle Group,2020,Consumer & Retail,,United Arab Emirates,Dubai,,1000.0,,Unicorn,,True,Unicorn Dataset,dubizzle group
+Quizlet,2020,Consumer & Retail,,United States,San Francisco,,1000.0,,Unicorn,,True,Unicorn Dataset,quizlet
+Orca Bio,2020,Healthcare & Life Sciences,,United States,Menlo Park,,1000.0,,Unicorn,,True,Unicorn Dataset,orca bio
+Infobip,2020,Enterprise Tech,,Croatia,Vodnjan,,1000.0,,Unicorn,,True,Unicorn Dataset,infobip
+Zwift,2020,Healthcare & Life Sciences,,United States,Long Beach,,1000.0,,Unicorn,,True,Unicorn Dataset,zwift
+Playco,2020,Media & Entertainment,,Japan,Tokyo,,1000.0,,Unicorn,,True,Unicorn Dataset,playco
+Gousto,2020,Consumer & Retail,,United Kingdom,London,,1700.0,,Unicorn,,True,Unicorn Dataset,gousto
+Alation,2021,Enterprise Tech,,United States,Redwood City,,1700.0,,Unicorn,,True,Unicorn Dataset,alation
+Boom Supersonic,2020,Industrials,,United States,Englewood,,1000.0,,Unicorn,,True,Unicorn Dataset,boom supersonic
+Quantum Metric,2021,Enterprise Tech,,United States,Colorado Springs,,1000.0,,Unicorn,,True,Unicorn Dataset,quantum metric
+News Break,2021,Media & Entertainment,,United States,Mountain View,,1000.0,,Unicorn,,True,Unicorn Dataset,news break
+MadeiraMadeira,2021,Consumer & Retail,,Brazil,Parana,,1000.0,,Unicorn,,True,Unicorn Dataset,madeiramadeira
+PPRO,2021,Financial Services,,United Kingdom,London,,1000.0,,Unicorn,,True,Unicorn Dataset,ppro
+Splashtop,2021,Enterprise Tech,,United States,San Jose,,1000.0,,Unicorn,,True,Unicorn Dataset,splashtop
+Flash Express,2021,Industrials,,Thailand,Bangkok,,1000.0,,Unicorn,,True,Unicorn Dataset,flash express
+Axiom Space,2021,Industrials,,United States,Houston,,1000.0,,Unicorn,,True,Unicorn Dataset,axiom space
+Locus Robotics,2021,Industrials,,United States,Wilmington,,1000.0,,Unicorn,,True,Unicorn Dataset,locus robotics
+Standard AI,2021,Consumer & Retail,,United States,San Francisco,,1000.0,,Unicorn,,True,Unicorn Dataset,standard ai
+Newsela,2021,Consumer & Retail,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,newsela
+Aqua Security,2021,Enterprise Tech,,Israel,Ramat Gan,,1000.0,,Unicorn,,True,Unicorn Dataset,aqua security
+PatSnap,2021,Enterprise Tech,,Singapore,Singapore City,,1000.0,,Unicorn,,True,Unicorn Dataset,patsnap
+Evidation,2021,Healthcare & Life Sciences,,United States,San Mateo,,1000.0,,Unicorn,,True,Unicorn Dataset,evidation
+Sidecar Health,2021,Healthcare & Life Sciences,,United States,El Segundo,,1000.0,,Unicorn,,True,Unicorn Dataset,sidecar health
+Feedzai,2021,Financial Services,,United States,San Mateo,,1000.0,,Unicorn,,True,Unicorn Dataset,feedzai
+Yunxuetang,2021,Enterprise Tech,,China,Suzhou,,1000.0,,Unicorn,,True,Unicorn Dataset,yunxuetang
+Cameo,2021,Media & Entertainment,,United States,Chicago,,1000.0,,Unicorn,,True,Unicorn Dataset,cameo
+Hyperchain,2021,Enterprise Tech,,China,Hangzhou,,1000.0,,Unicorn,,True,Unicorn Dataset,hyperchain
+The Zebra,2021,Insurance,,United States,Austin,,1000.0,,Unicorn,,True,Unicorn Dataset,the zebra
+Groq,2021,Enterprise Tech,,United States,Mountain View,,1000.0,,Unicorn,,True,Unicorn Dataset,groq
+Fiture,2021,Healthcare & Life Sciences,,China,Chengdu,,1000.0,,Unicorn,,True,Unicorn Dataset,fiture
+Injective,2021,Financial Services,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,injective
+Sift,2021,Enterprise Tech,,United States,San Francisco,,1000.0,,Unicorn,,True,Unicorn Dataset,sift
+Teya,2021,Financial Services,,United Kingdom,London,,1000.0,,Unicorn,,True,Unicorn Dataset,teya
+Capsule,2021,Healthcare & Life Sciences,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,capsule
+MOLOCO,2021,Enterprise Tech,,United States,Redwood City,,1500.0,,Unicorn,,True,Unicorn Dataset,moloco
+Inari,2021,Industrials,,United States,Cambridge,,1650.0,,Unicorn,,True,Unicorn Dataset,inari
+Mux,2021,Media & Entertainment,,United States,San Francisco,,1000.0,,Unicorn,,True,Unicorn Dataset,mux
+XForcePlus,2021,Enterprise Tech,,China,Shanghai,,1000.0,,Unicorn,,True,Unicorn Dataset,xforceplus
+Augustinus Bader,2022,Consumer & Retail,,United Kingdom,London,,1000.0,,Unicorn,,True,Unicorn Dataset,augustinus bader
+Shift,2021,Insurance,,France,Paris,,1000.0,,Unicorn,,True,Unicorn Dataset,shift
+TensTorrent,2021,Enterprise Tech,,Canada,Toronto,,1000.0,,Unicorn,,True,Unicorn Dataset,tenstorrent
+Zihaiguo,2021,Consumer & Retail,,China,Chongqing,,1000.0,,Unicorn,,True,Unicorn Dataset,zihaiguo
+Forte Labs,2021,Media & Entertainment,,United States,San Francisco,,1730.0,,Unicorn,,True,Unicorn Dataset,forte labs
+Axtria,2021,Enterprise Tech,,United States,Berkeley Heights,,1000.0,,Unicorn,,True,Unicorn Dataset,axtria
+Amount,2021,Financial Services,,United States,Chicago,,1000.0,,Unicorn,,True,Unicorn Dataset,amount
+Vise,2021,Financial Services,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,vise
+Printful,2021,Consumer & Retail,,United States,Charlotte,,1000.0,,Unicorn,,True,Unicorn Dataset,printful
+Matrixport,2021,Financial Services,,Singapore,Singapore City,,1050.0,,Unicorn,,True,Unicorn Dataset,matrixport
+Shippo,2021,Industrials,,United States,San Francisco,,1000.0,,Unicorn,,True,Unicorn Dataset,shippo
+Thirty Madison,2021,Healthcare & Life Sciences,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,thirty madison
+LetsGetChecked,2021,Healthcare & Life Sciences,,Ireland,Dublin,,1000.0,,Unicorn,,True,Unicorn Dataset,letsgetchecked
+EcoFlow,2021,Industrials,,China,Shenzhen,,1000.0,,Unicorn,,True,Unicorn Dataset,ecoflow
+Carro,2021,Industrials,,Singapore,Singapore City,,1000.0,,Unicorn,,True,Unicorn Dataset,carro
+Tractable,2021,Insurance,,United Kingdom,London,,1000.0,,Unicorn,,True,Unicorn Dataset,tractable
+Xiaoe Tech,2021,Enterprise Tech,,China,Shenzhen,,1000.0,,Unicorn,,True,Unicorn Dataset,xiaoe tech
+Bringg,2021,Enterprise Tech,,Israel,Tel Aviv,,1000.0,,Unicorn,,True,Unicorn Dataset,bringg
+Simply,2021,Media & Entertainment,,Israel,Tel Aviv,,1000.0,,Unicorn,,True,Unicorn Dataset,simply
+Worldcoin,2021,Financial Services,,United States,San Francisco,,1000.0,,Unicorn,,True,Unicorn Dataset,worldcoin
+SmartAsset,2021,Financial Services,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,smartasset
+Morning Consult,2021,Enterprise Tech,,United States,Washington DC,,1000.0,,Unicorn,,True,Unicorn Dataset,morning consult
+Visier,2021,Enterprise Tech,,Canada,Vancouver,,1000.0,,Unicorn,,True,Unicorn Dataset,visier
+ShipBob,2021,Consumer & Retail,,United States,Chicago,,1000.0,,Unicorn,,True,Unicorn Dataset,shipbob
+MobileCoin,2021,Financial Services,,United States,San Francisco,,1060.0,,Unicorn,,True,Unicorn Dataset,mobilecoin
+Amperity,2021,Enterprise Tech,,United States,Seattle,,1000.0,,Unicorn,,True,Unicorn Dataset,amperity
+Pantheon Systems,2021,Enterprise Tech,,United States,San Francisco,,1000.0,,Unicorn,,True,Unicorn Dataset,pantheon systems
+Xiaoice,2021,Media & Entertainment,,China,Beijing,,1000.0,,Unicorn,,True,Unicorn Dataset,xiaoice
+Caidya,2021,Healthcare & Life Sciences,,China,Shanghai,,1000.0,,Unicorn,,True,Unicorn Dataset,caidya
+Carson Group,2021,Financial Services,,United States,Lincoln,,1000.0,,Unicorn,,True,Unicorn Dataset,carson group
+NIUM,2021,Financial Services,,Singapore,Singapore City,,2000.0,,Unicorn,,True,Unicorn Dataset,nium
+Human Interest,2021,Financial Services,,United States,San Francisco,,1000.0,,Unicorn,,True,Unicorn Dataset,human interest
+Bluecore,2021,Consumer & Retail,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,bluecore
+Freshbooks,2021,Enterprise Tech,,Canada,Toronto,,1000.0,,Unicorn,,True,Unicorn Dataset,freshbooks
+Snorkel AI,2021,Enterprise Tech,,United States,Palo Alto,,1000.0,,Unicorn,,True,Unicorn Dataset,snorkel ai
+Gelato,2021,Consumer & Retail,,Norway,Oslo,,1000.0,,Unicorn,,True,Unicorn Dataset,gelato
+Maven,2021,Healthcare & Life Sciences,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,maven
+PicsArt,2021,Media & Entertainment,,United States,San Francisco,,1000.0,,Unicorn,,True,Unicorn Dataset,picsart
+1KMXC,2021,Industrials,,China,Hangzhou,,1000.0,,Unicorn,,True,Unicorn Dataset,1kmxc
+Cider,2021,Consumer & Retail,,Hong Kong,Hong Kong,,1000.0,,Unicorn,,True,Unicorn Dataset,cider
+Berlin Brands Group,2021,Consumer & Retail,,Germany,Berlin,,1000.0,,Unicorn,,True,Unicorn Dataset,berlin brands group
+Agile Robots,2021,Industrials,,Germany,Munich,,1000.0,,Unicorn,,True,Unicorn Dataset,agile robots
+Mammoth Biosciences,2021,Healthcare & Life Sciences,,United States,Brisbane,,1000.0,,Unicorn,,True,Unicorn Dataset,mammoth biosciences
+Orchard,2021,Financial Services,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,orchard
+Xendit,2021,Financial Services,,Indonesia,Jakarta,,1000.0,,Unicorn,,True,Unicorn Dataset,xendit
+TrueLayer,2021,Financial Services,,United Kingdom,London,,1000.0,,Unicorn,,True,Unicorn Dataset,truelayer
+Assembly,2021,Consumer & Retail,,United States,Culver City,,1000.0,,Unicorn,,True,Unicorn Dataset,assembly
+PandaDoc,2021,Enterprise Tech,,United States,San Francisco,,1000.0,,Unicorn,,True,Unicorn Dataset,pandadoc
+Keenon Robotics,2021,Industrials,,China,Shanghai,,1000.0,,Unicorn,,True,Unicorn Dataset,keenon robotics
+HAYDON,2021,Consumer & Retail,,China,Shanghai,,1000.0,,Unicorn,,True,Unicorn Dataset,haydon
+Ninja Van,2021,Consumer & Retail,,Singapore,Singapore City,,1000.0,,Unicorn,,True,Unicorn Dataset,ninja van
+Vedantu,2021,Consumer & Retail,,India,Bengaluru,,1000.0,,Unicorn,,True,Unicorn Dataset,vedantu
+Formation Bio,2021,Healthcare & Life Sciences,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,formation bio
+Ajaib,2021,Financial Services,,Indonesia,Jakarta,,1000.0,,Unicorn,,True,Unicorn Dataset,ajaib
+Licious,2021,Consumer & Retail,,India,Bengaluru,,1000.0,,Unicorn,,True,Unicorn Dataset,licious
+Masterworks,2021,Financial Services,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,masterworks
+Chronosphere,2021,Enterprise Tech,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,chronosphere
+Solo.io,2021,Enterprise Tech,,United States,Cambridge,,1000.0,,Unicorn,,True,Unicorn Dataset,solo.io
+Savage X Fenty,2021,Consumer & Retail,,United States,El Segundo,,1000.0,,Unicorn,,True,Unicorn Dataset,savage x fenty
+Swile,2021,Enterprise Tech,,France,Montpellier,,1000.0,,Unicorn,,True,Unicorn Dataset,swile
+MobiKwik,2021,Financial Services,,India,Gurugram,,1000.0,,Unicorn,,True,Unicorn Dataset,mobikwik
+Weights & Biases,2021,Enterprise Tech,,United States,San Francisco,,1250.0,,Unicorn,,True,Unicorn Dataset,weights & biases
+Zopa,2021,Financial Services,,United Kingdom,London,,1000.0,,Unicorn,,True,Unicorn Dataset,zopa
+Dental Monitoring,2021,Healthcare & Life Sciences,,France,Paris,,1000.0,,Unicorn,,True,Unicorn Dataset,dental monitoring
+CargoX,2021,Industrials,,Brazil,Sao Paulo,,1000.0,,Unicorn,,True,Unicorn Dataset,cargox
+Fabric,2021,Consumer & Retail,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,fabric
+Augury,2021,Industrials,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,augury
+Moka,2021,Enterprise Tech,,China,Beijing,,1000.0,,Unicorn,,True,Unicorn Dataset,moka
+Tezign,2021,Enterprise Tech,,China,Shanghai,,1000.0,,Unicorn,,True,Unicorn Dataset,tezign
+Vagaro,2021,Consumer & Retail,,United States,Dublin,,1000.0,,Unicorn,,True,Unicorn Dataset,vagaro
+IGAWorks,2021,Enterprise Tech,,South Korea,Seoul,,1000.0,,Unicorn,,True,Unicorn Dataset,igaworks
+Contrast Security,2021,Enterprise Tech,,United States,Los Altos,,1000.0,,Unicorn,,True,Unicorn Dataset,contrast security
+Wrapbook,2021,Media & Entertainment,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,wrapbook
+Gaussian Robotics,2021,Industrials,,China,Shanghai,,1100.0,,Unicorn,,True,Unicorn Dataset,gaussian robotics
+Mensa Brands,2021,Consumer & Retail,,India,Bengaluru,,1000.0,,Unicorn,,True,Unicorn Dataset,mensa brands
+Heyday,2021,Consumer & Retail,,United States,Chicago,,1000.0,,Unicorn,,True,Unicorn Dataset,heyday
+PLACE,2021,Financial Services,,United States,Bellingham,,1000.0,,Unicorn,,True,Unicorn Dataset,place
+Stytch,2021,Enterprise Tech,,United States,San Francisco,,1000.0,,Unicorn,,True,Unicorn Dataset,stytch
+Owkin,2021,Healthcare & Life Sciences,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,owkin
+Expel,2021,Enterprise Tech,,United States,Herndon,,1000.0,,Unicorn,,True,Unicorn Dataset,expel
+NoBroker,2021,Financial Services,,India,Bengaluru,,1000.0,,Unicorn,,True,Unicorn Dataset,nobroker
+Lessen,2021,Financial Services,,United States,Scottsdale,,1000.0,,Unicorn,,True,Unicorn Dataset,lessen
+Clara,2021,Financial Services,,Mexico,Mexico City,,1000.0,,Unicorn,,True,Unicorn Dataset,clara
+YipitData,2021,Enterprise Tech,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,yipitdata
+Anyscale,2021,Enterprise Tech,,United States,Berkeley,,1000.0,,Unicorn,,True,Unicorn Dataset,anyscale
+Iodine Software,2021,Healthcare & Life Sciences,,United States,Austin,,1000.0,,Unicorn,,True,Unicorn Dataset,iodine software
+ReliaQuest,2021,Enterprise Tech,,United States,Tampa,,1000.0,,Unicorn,,True,Unicorn Dataset,reliaquest
+Pet Circle,2021,Consumer & Retail,,Australia,Alexandria,,1000.0,,Unicorn,,True,Unicorn Dataset,pet circle
+Nature's Fynd,2021,Consumer & Retail,,United States,Chicago,,1000.0,,Unicorn,,True,Unicorn Dataset,nature's fynd
+Lydia,2021,Financial Services,,France,Paris,,1000.0,,Unicorn,,True,Unicorn Dataset,lydia
+SellerX,2021,Consumer & Retail,,Germany,Berlin,,1000.0,,Unicorn,,True,Unicorn Dataset,sellerx
+SnapLogic,2021,Enterprise Tech,,United States,San Mateo,,1000.0,,Unicorn,,True,Unicorn Dataset,snaplogic
+Cadence,2021,Healthcare & Life Sciences,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,cadence
+Noname Security,2021,Enterprise Tech,,United States,Palo Alto,,1000.0,,Unicorn,,True,Unicorn Dataset,noname security
+Rothy's,2021,Consumer & Retail,,United States,San Francisco,,1000.0,,Unicorn,,True,Unicorn Dataset,rothy's
+VOI,2021,Industrials,,Sweden,Stockholm,,1000.0,,Unicorn,,True,Unicorn Dataset,voi
+Haomo.AI,2021,Industrials,,China,Beijing,,1000.0,,Unicorn,,True,Unicorn Dataset,haomo.ai
+Kopi Kenangan,2021,Consumer & Retail,,Indonesia,Jakarta,,1000.0,,Unicorn,,True,Unicorn Dataset,kopi kenangan
+InFarm,2021,Industrials,,Germany,Berlin,,1000.0,,Unicorn,,True,Unicorn Dataset,infarm
+ONE,2021,Media & Entertainment,,Singapore,Singapore City,,1000.0,,Unicorn,,True,Unicorn Dataset,one
+Fractal Analytics,2022,Enterprise Tech,,India,Mumbai,,1000.0,,Unicorn,,True,Unicorn Dataset,fractal analytics
+Assent,2022,Industrials,,Canada,Ottawa,,1000.0,,Unicorn,,True,Unicorn Dataset,assent
+Placer.ai,2022,Consumer & Retail,,United States,Los Altos,,1000.0,,Unicorn,,True,Unicorn Dataset,placer.ai
+Pentera,2022,Enterprise Tech,,Israel,Petah Tikva,,1000.0,,Unicorn,,True,Unicorn Dataset,pentera
+Darwinbox,2022,Enterprise Tech,,India,Hyderabad,,1000.0,,Unicorn,,True,Unicorn Dataset,darwinbox
+Minio,2022,Enterprise Tech,,United States,Palo Alto,,1000.0,,Unicorn,,True,Unicorn Dataset,minio
+Esusu,2022,Financial Services,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,esusu
+Betterfly,2022,Enterprise Tech,,Chile,Santiago,,1000.0,,Unicorn,,True,Unicorn Dataset,betterfly
+Dune Analytics,2022,Enterprise Tech,,Norway,Oslo,,1000.0,,Unicorn,,True,Unicorn Dataset,dune analytics
+Scandit,2022,Enterprise Tech,,Switzerland,Zurich,,1000.0,,Unicorn,,True,Unicorn Dataset,scandit
+Payhawk,2022,Enterprise Tech,,United Kingdom,London,,1000.0,,Unicorn,,True,Unicorn Dataset,payhawk
+Watershed,2022,Enterprise Tech,,United States,San Francisco,,1000.0,,Unicorn,,True,Unicorn Dataset,watershed
+Axelar,2022,Enterprise Tech,,Canada,Waterloo,,1000.0,,Unicorn,,True,Unicorn Dataset,axelar
+CHEQ,2022,Enterprise Tech,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,cheq
+Hasura,2022,Enterprise Tech,,India,Bengaluru,,1000.0,,Unicorn,,True,Unicorn Dataset,hasura
+Timescale,2022,Enterprise Tech,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,timescale
+Scalapay,2022,Financial Services,,Italy,Milan,,1000.0,,Unicorn,,True,Unicorn Dataset,scalapay
+Omada Health,2022,Healthcare & Life Sciences,,United States,San Francisco,,1000.0,,Unicorn,,True,Unicorn Dataset,omada health
+BlueVoyant,2022,Enterprise Tech,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,bluevoyant
+Vendr,2022,Enterprise Tech,,United States,Boston,,1000.0,,Unicorn,,True,Unicorn Dataset,vendr
+Gauntlet Networks,2022,Financial Services,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,gauntlet networks
+Aptos,2022,Enterprise Tech,,United States,Palo Alto,,1000.0,,Unicorn,,True,Unicorn Dataset,aptos
+Glia,2022,Enterprise Tech,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,glia
+CommerceIQ,2022,Consumer & Retail,,United States,Palo Alto,,1000.0,,Unicorn,,True,Unicorn Dataset,commerceiq
+RapidAPI,2022,Enterprise Tech,,United States,San Francisco,,1000.0,,Unicorn,,True,Unicorn Dataset,rapidapi
+Tarana Wireless,2022,Industrials,,United States,Milpitas,,1000.0,,Unicorn,,True,Unicorn Dataset,tarana wireless
+FLASH,2022,Industrials,,United States,Austin,,1000.0,,Unicorn,,True,Unicorn Dataset,flash
+Electric,2022,Enterprise Tech,,United States,New York,,1000.0,,Unicorn,,True,Unicorn Dataset,electric
+BostonGene,2022,Healthcare & Life Sciences,,United States,Waltham,,1000.0,,Unicorn,,True,Unicorn Dataset,bostongene
+Grover,2022,Consumer & Retail,,Germany,Berlin,,1000.0,,Unicorn,,True,Unicorn Dataset,grover
+Genies,2022,Media & Entertainment,,United States,Venice,,1000.0,,Unicorn,,True,Unicorn Dataset,genies
+Oyster,2022,Enterprise Tech,,United States,Wilmington,,1000.0,,Unicorn,,True,Unicorn Dataset,oyster
+NexHealth,2022,Healthcare & Life Sciences,,United States,San Francisco,,1000.0,,Unicorn,,True,Unicorn Dataset,nexhealth
+UPSIDE Foods,2022,Consumer & Retail,,United States,Berkeley,,1000.0,,Unicorn,,True,Unicorn Dataset,upside foods
+Factorial,2022,Enterprise Tech,,Spain,Barcelona,,1000.0,,Unicorn,,True,Unicorn Dataset,factorial
+Divergent 3D,2022,Industrials,,United States,Torrance,,1000.0,,Unicorn,,True,Unicorn Dataset,divergent 3d
+Taxfix,2022,Financial Services,,Germany,Berlin,,1000.0,,Unicorn,,True,Unicorn Dataset,taxfix
+Open,2022,Financial Services,,India,Bengaluru,,1000.0,,Unicorn,,True,Unicorn Dataset,open
+Opn,2022,Financial Services,,Japan,Tokyo,,1000.0,,Unicorn,,True,Unicorn Dataset,opn
+Remarkable,2022,Consumer & Retail,,Norway,Oslo,,1000.0,,Unicorn,,True,Unicorn Dataset,remarkable
+Habi,2022,Financial Services,,Colombia,Bogota,,1000.0,,Unicorn,,True,Unicorn Dataset,habi
+CareBridge,2022,Healthcare & Life Sciences,,United States,Nashville,,1000.0,,Unicorn,,True,Unicorn Dataset,carebridge
+Immuta,2022,Enterprise Tech,,United States,Boston,,1000.0,,Unicorn,,True,Unicorn Dataset,immuta
+JupiterOne,2022,Enterprise Tech,,United States,Morrisville,,1000.0,,Unicorn,,True,Unicorn Dataset,jupiterone
+Vayyar,2022,Industrials,,Israel,Yehud,,1000.0,,Unicorn,,True,Unicorn Dataset,vayyar
+LeadSquared,2022,Enterprise Tech,,India,Bengaluru,,1000.0,,Unicorn,,True,Unicorn Dataset,leadsquared
+FourKites,2022,Enterprise Tech,,United States,Chicago,,1000.0,,Unicorn,,True,Unicorn Dataset,fourkites
+VulcanForms,2022,Industrials,,United States,Burlington,,1000.0,,Unicorn,,True,Unicorn Dataset,vulcanforms
+SingleStore,2022,Enterprise Tech,,United States,San Francisco,,1000.0,,Unicorn,,True,Unicorn Dataset,singlestore
+Unstoppable Domains,2022,Media & Entertainment,,United States,Las Vegas,,1000.0,,Unicorn,,True,Unicorn Dataset,unstoppable domains
